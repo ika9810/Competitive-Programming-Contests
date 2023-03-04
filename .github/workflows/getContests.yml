@@ -1,0 +1,38 @@
+
+name: Auto Scheduler of Competitive Programming Contests (Daliy)
+
+on:
+  schedule:
+    - cron: '0 */12 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+      with:
+        ref: main
+    - name: Setup Python
+      uses: actions/setup-python@v1
+      with:
+          python-version: '3.x'
+          architecture: 'x64'
+    - name: Setup pip
+      run: |
+        python -m pip install --upgrade pip
+        pip install beautifulsoup4
+        pip install requests
+    - name: PICK
+      run: |
+         python ./getContests.py
+    - name: Commits
+      run: |
+        git config --local user.email "ika7204@naver.com"
+        git config --local user.name "ika9810"
+        git add .
+        git commit -m "⚙️[Daliy]Auto Scheduler of Competitive Programming Contests"
+    - name: Push
+      uses: ad-m/github-push-action@master
+      with:
+         branch: 'main'
+         github_token: $
