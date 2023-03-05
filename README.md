@@ -5,13 +5,9 @@ Competitive Programming Contests (up-to-date)
 [![오늘의 문제](https://img.shields.io/badge/Today's%20ARC-Link-orange)](https://github.com/ika9810/Atcoder-Daily-Contests/blob/main/ARC.md) 
 [![오늘의 문제](https://img.shields.io/badge/Today's%20AGC-Link-red)](https://github.com/ika9810/Atcoder-Daily-Contests/blob/main/AGC.md) 
 [![Email](https://img.shields.io/badge/Email-ika7204@naver.com-ff69b4)](mailTo:ika7204@naver.com)
- Contest ID | Title | Start Time | End Time |
----|---|---|---|
-| AtCoder | AtCoder Beginner Contest 292 | 2023년 3월 4일 21:00 | 2023년 3월 4일 22:40 |
 
  Contest ID | Title | Start Time | End Time |
 ---|---|---|---|
-| Codeforces | Codeforces Round 856 (Div. 2) | 2023년 3월 5일 02:35 | 2023년 3월 5일 04:35 |
 | CodeChef | Starters 80 | 2023년 3월 8일 23:30 | 2023년 3월 9일 02:30 |
 | Codeforces | Codeforces Round 857 (Div. 1) | 2023년 3월 9일 18:35 | 2023년 3월 9일 20:35 |
 | Codeforces | Codeforces Round 857 (Div. 2) | 2023년 3월 9일 18:35 | 2023년 3월 9일 20:35 |
