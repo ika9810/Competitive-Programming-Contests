@@ -6,6 +6,11 @@ from bs4 import BeautifulSoup
 url = 'https://www.acmicpc.net/contest/other/list'
 response = requests.get(url, headers={"User-Agent": "Mozilla/5.0"})
 
+timeformat = datetime.datetime.now(pytz.timezone('Asia/Seoul'))
+timeformat = f"{timeformat.strftime('%Y-%m-%d')}"
+dateformat = datetime.datetime.now(pytz.timezone('Asia/Seoul'))
+date = f"{dateformat.strftime('%Y/%m/%d, %H:%M:%S')}"
+
 soup = BeautifulSoup(response.text, 'html.parser')
 tables = soup.find_all('table')
 
@@ -25,14 +30,10 @@ with open('README.md', 'w') as f:
     res = ""
     for i in range(7):
         res += lines[i]
-    output = res + '\n' + output
+    output = res + '\n' + output + "Updated at " + date + '\n'
     f.write(output)
     f.close()
 
-timeformat = datetime.datetime.now(pytz.timezone('Asia/Seoul'))
-timeformat = f"{timeformat.strftime('%Y-%m-%d')}"
-dateformat = datetime.datetime.now(pytz.timezone('Asia/Seoul'))
-date = f"{dateformat.strftime('%Y/%m/%d, %H:%M:%S')}"
 with open('./archive/'+timeformat+".md", 'w') as f:
     output += "Updated at " + date + '\n'
     f.write(output)
