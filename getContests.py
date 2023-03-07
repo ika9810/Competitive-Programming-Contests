@@ -1,4 +1,6 @@
 import requests
+import datetime
+import pytz
 from bs4 import BeautifulSoup
 
 url = 'https://www.acmicpc.net/contest/other/list'
@@ -24,5 +26,14 @@ with open('README.md', 'w') as f:
     for i in range(7):
         res += lines[i]
     output = res + '\n' + output
+    f.write(output)
+    f.close()
+
+timeformat = datetime.datetime.now(pytz.timezone('Asia/Seoul'))
+timeformat = f"{timeformat.strftime('%Y-%m-%d')}"
+dateformat = datetime.datetime.now(pytz.timezone('Asia/Seoul'))
+date = f"{dateformat.strftime('%Y/%m/%d, %H:%M:%S')}"
+with open('./archive/'+timeformat+".md", 'w') as f:
+    output += "Updated at " + date + '\n'
     f.write(output)
     f.close()
