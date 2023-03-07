@@ -26,10 +26,12 @@ Competitive Programming Contests (up-to-date)
 | BOJ Open | 가희와 함께 하는 5회 코딩테스트 | 2023년 3월 19일 13:00 | 2023년 3월 19일 18:00 |
 | Codeforces | Codeforces Round 858 (Div. 4) | 2023년 3월 19일 23:35 | 2023년 3월 20일 01:50 |
 | CodeChef | Starters 82 | 2023년 3월 22일 23:30 | 2023년 3월 23일 02:30 |
+| Programmers | 2023 Dev-Matching: 웹 백엔드 개발자(상반기) | 2023년 3월 25일 10:00 | 2023년 3월 27일 18:00 |
 | Codeforces | Codeforces Round (Div. 2) | 2023년 3월 26일 23:35 | 2023년 3월 27일 01:35 |
 | CodeChef | Starters 83 | 2023년 3월 29일 23:30 | 2023년 3월 30일 02:30 |
 | Topcoder | Marathon Match 145 | 2023년 3월 30일 02:00 | 2023년 4월 6일 02:00 |
 | Topcoder | SRM 848 | 2023년 3월 31일 20:00 | 2023년 3월 31일 22:00 |
 | Codeforces | Codeforces Round (Div. 2) | 2023년 4월 2일 23:35 | 2023년 4월 3일 01:35 |
 | BOJ Open | 2023 가지컵 | 2023년 4월 8일 13:00 | 2023년 4월 8일 18:00 |
+| BOJ Open | 제1회 와쿠(AGCU)컵 | 2023년 4월 15일 12:00 | 2023년 4월 15일 17:00 |
 
