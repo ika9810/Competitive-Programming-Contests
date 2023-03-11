@@ -8,9 +8,11 @@ Competitive Programming Contests (up-to-date)
 
  Contest ID | Title | Start Time | End Time |
 ---|---|---|---|
-| BOJ Open | 2023 중앙대학교 CHAC (ChAOS Hello2023 Algorithm Contest) Open Contest | 2023년 3월 11일 14:00 | 2023년 3월 11일 17:00 |
 | BOJ Open | 2022 경인지역 6개 대학 연합 프로그래밍 경시대회 shake! Open Contest | 2023년 3월 11일 18:00 | 2023년 3월 11일 22:00 |
 | AtCoder | AtCoder Beginner Contest 293 | 2023년 3월 11일 21:00 | 2023년 3월 11일 22:40 |
+
+ Contest ID | Title | Start Time | End Time |
+---|---|---|---|
 | BOJ Open | AI Network Scholarium I | 2023년 3월 12일 13:00 | 2023년 3월 12일 17:00 |
 | AtCoder | AtCoder Regular Contest 158 | 2023년 3월 12일 21:00 | 2023년 3월 12일 23:00 |
 | Codeforces | Nebius Welcome Round (Div. 1 + Div. 2) | 2023년 3월 12일 23:35 | 2023년 3월 13일 01:35 |
@@ -35,5 +37,6 @@ Competitive Programming Contests (up-to-date)
 | BOJ Open | 2023 가지컵 | 2023년 4월 8일 13:00 | 2023년 4월 8일 18:00 |
 | Codeforces | Codeforces Round (Div. 2) | 2023년 4월 8일 23:05 | 2023년 4월 9일 01:05 |
 | BOJ Open | 제1회 와쿠(AGCU)컵 | 2023년 4월 15일 12:00 | 2023년 4월 15일 17:00 |
+| BOJ Open | 대회 | 2023년 5월 8일 12:00 | 2023년 5월 9일 12:00 |
 
-Updated at 2023/03/11, 09:50:49
+Updated at 2023/03/11, 21:17:46
