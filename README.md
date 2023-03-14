@@ -34,4 +34,4 @@ Competitive Programming Contests (up-to-date)
 | BOJ Open |  | 2023년 4월 30일 12:31 | 2023년 5월 1일 01:01 |
 | BOJ Open | 대회 | 2023년 5월 8일 12:00 | 2023년 5월 9일 12:00 |
 
-Updated at 2023/03/14, 09:48:10
+Updated at 2023/03/14, 21:26:20
