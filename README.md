@@ -10,6 +10,7 @@ Competitive Programming Contests (up-to-date)
 ---|---|---|---|
 | AtCoder | Toyota Programming Contest 2023 Spring Final | 2023년 3월 18일 10:10 | 2023년 3월 18일 13:10 |
 | AtCoder | MC Digital Programming Contest 2023（AtCoder Heuristic Contest 019） | 2023년 3월 18일 12:00 | 2023년 4월 2일 19:00 |
+| BOJ Open | 예비소집 | 2023년 3월 18일 16:01 | 2023년 3월 19일 00:01 |
 | Codeforces | Codeforces Round 858 (Div. 2) | 2023년 3월 18일 21:05 | 2023년 3월 18일 23:20 |
 | AtCoder | AtCoder Beginner Contest 294 | 2023년 3월 19일 21:00 | 2023년 3월 19일 22:40 |
 | Codeforces | Codeforces Round 859 (Div. 4) | 2023년 3월 19일 23:35 | 2023년 3월 20일 01:50 |
@@ -34,4 +35,4 @@ Competitive Programming Contests (up-to-date)
 | BOJ Open |  | 2023년 4월 30일 12:31 | 2023년 5월 1일 01:01 |
 | BOJ Open | 대회 | 2023년 5월 8일 12:00 | 2023년 5월 9일 12:00 |
 
-Updated at 2023/03/17, 09:55:12
+Updated at 2023/03/17, 21:19:53
