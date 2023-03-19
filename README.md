@@ -9,10 +9,10 @@ Competitive Programming Contests (up-to-date)
  Contest ID | Title | Start Time | End Time |
 ---|---|---|---|
 | AtCoder | MC Digital Programming Contest 2023（AtCoder Heuristic Contest 019） | 2023년 3월 18일 12:00 | 2023년 4월 2일 19:00 |
+| AtCoder | AtCoder Beginner Contest 294 | 2023년 3월 19일 21:00 | 2023년 3월 19일 22:40 |
 
  Contest ID | Title | Start Time | End Time |
 ---|---|---|---|
-| AtCoder | AtCoder Beginner Contest 294 | 2023년 3월 19일 21:00 | 2023년 3월 19일 22:40 |
 | Codeforces | Codeforces Round 859 (Div. 4) | 2023년 3월 19일 23:35 | 2023년 3월 20일 01:50 |
 | Codeforces | Educational Codeforces Round 145 (Rated for Div. 2) | 2023년 3월 20일 23:35 | 2023년 3월 21일 01:35 |
 | CodeChef | Starters 82 | 2023년 3월 22일 23:30 | 2023년 3월 23일 02:30 |
@@ -30,10 +30,11 @@ Competitive Programming Contests (up-to-date)
 | Codeforces | Codeforces Round 862 (Div. 2) | 2023년 4월 2일 23:35 | 2023년 4월 3일 01:35 |
 | BOJ Open | 2023 IamCoder Qualification Test Open | 2023년 4월 7일 19:00 | 2023년 4월 7일 22:00 |
 | BOJ Open | 2023 가지컵 | 2023년 4월 8일 13:00 | 2023년 4월 8일 18:00 |
+| AtCoder | AtCoder Regular Contest 159 | 2023년 4월 8일 21:00 | 2023년 4월 8일 23:00 |
 | Codeforces | Codeforces Round 863 (Div. 2) | 2023년 4월 8일 23:05 | 2023년 4월 9일 01:05 |
 | BOJ Open | 제1회 와쿠(AGCU)컵 | 2023년 4월 15일 12:00 | 2023년 4월 15일 17:00 |
 | AtCoder | ALGO ARTIS Programming Contest 2023（AtCoder Heuristic Contest 020） | 2023년 4월 23일 15:00 | 2023년 4월 23일 19:00 |
 | BOJ Open |  | 2023년 4월 30일 12:31 | 2023년 5월 1일 01:01 |
 | BOJ Open | 대회 | 2023년 5월 8일 12:00 | 2023년 5월 9일 12:00 |
 
-Updated at 2023/03/19, 10:00:17
+Updated at 2023/03/19, 21:18:27
