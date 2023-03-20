@@ -26,13 +26,17 @@ Competitive Programming Contests (up-to-date)
 | Codeforces | CodeTON Round 4 (Div. 1 + Div. 2, Rated, Prizes!) | 2023년 3월 31일 23:35 | 2023년 4월 1일 01:35 |
 | BOJ Open | 가희와 함께 하는 5회 코딩테스트 | 2023년 4월 2일 13:00 | 2023년 4월 2일 18:00 |
 | Codeforces | Codeforces Round 862 (Div. 2) | 2023년 4월 2일 23:35 | 2023년 4월 3일 01:35 |
+| CodeChef | Starters 84 | 2023년 4월 5일 23:30 | 2023년 4월 6일 02:30 |
 | BOJ Open | 2023 IamCoder Qualification Test Open | 2023년 4월 7일 19:00 | 2023년 4월 7일 22:00 |
 | BOJ Open | 2023 가지컵 | 2023년 4월 8일 13:00 | 2023년 4월 8일 18:00 |
 | AtCoder | AtCoder Regular Contest 159 | 2023년 4월 8일 21:00 | 2023년 4월 8일 23:00 |
 | Codeforces | Codeforces Round 863 (Div. 2) | 2023년 4월 8일 23:05 | 2023년 4월 9일 01:05 |
+| CodeChef | Starters 85 | 2023년 4월 12일 23:30 | 2023년 4월 13일 02:30 |
 | BOJ Open | 제1회 와쿠(AGCU)컵 | 2023년 4월 15일 12:00 | 2023년 4월 15일 17:00 |
+| CodeChef | Starters 86 | 2023년 4월 19일 23:30 | 2023년 4월 20일 02:30 |
 | AtCoder | ALGO ARTIS Programming Contest 2023（AtCoder Heuristic Contest 020） | 2023년 4월 23일 15:00 | 2023년 4월 23일 19:00 |
+| CodeChef | Starters 87 | 2023년 4월 26일 23:30 | 2023년 4월 27일 02:30 |
 | BOJ Open |  | 2023년 4월 30일 12:31 | 2023년 5월 1일 01:01 |
 | BOJ Open | 대회 | 2023년 5월 8일 12:00 | 2023년 5월 9일 12:00 |
 
-Updated at 2023/03/20, 09:56:49
+Updated at 2023/03/20, 21:20:40
