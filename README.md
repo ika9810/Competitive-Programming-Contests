@@ -13,7 +13,6 @@ Competitive Programming Contests (up-to-date)
 
  Contest ID | Title | Start Time | End Time |
 ---|---|---|---|
-| BOJ Open | 2023 UNIST-DGIST-POSTECH 연합 프로그래밍 경진대회 (2023 UDPC) Open Contest | 2023년 3월 26일 14:00 | 2023년 3월 26일 17:00 |
 | Codeforces | Codeforces Round 860 (Div. 2) | 2023년 3월 26일 23:35 | 2023년 3월 27일 01:35 |
 | Codeforces | Codeforces Round 861 (Div. 2) | 2023년 3월 29일 18:05 | 2023년 3월 29일 20:05 |
 | CodeChef | Starters 83 | 2023년 3월 29일 23:30 | 2023년 3월 30일 02:30 |
@@ -40,4 +39,4 @@ Competitive Programming Contests (up-to-date)
 | BOJ Open |  | 2023년 4월 30일 12:31 | 2023년 5월 1일 01:01 |
 | BOJ Open | 대회 | 2023년 5월 8일 12:00 | 2023년 5월 9일 12:00 |
 
-Updated at 2023/03/26, 09:56:33
+Updated at 2023/03/26, 21:17:16
