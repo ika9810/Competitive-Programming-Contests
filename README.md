@@ -21,18 +21,19 @@ Competitive Programming Contests (up-to-date)
 | AtCoder | AtCoder Beginner Contest 297 | 2023년 4월 9일 21:00 | 2023년 4월 9일 22:40 |
 | Codeforces | Codeforces Round 865 (Div. 1) | 2023년 4월 9일 23:45 | 2023년 4월 10일 01:45 |
 | Codeforces | Codeforces Round 865 (Div. 2) | 2023년 4월 9일 23:45 | 2023년 4월 10일 01:45 |
-| CodeChef | Starters 85 | 2023년 4월 12일 23:30 | 2023년 4월 13일 02:30 |
+| CodeChef | Starters 85 | 2023년 4월 12일 23:30 | 2023년 4월 13일 01:30 |
 | Codeforces | ICPC 2023 Online Spring Challenge powered by Huawei | 2023년 4월 13일 20:00 | 2023년 4월 27일 20:00 |
 | BOJ Open | 제1회 와쿠(AGCU)컵 | 2023년 4월 15일 12:00 | 2023년 4월 15일 17:00 |
 | AtCoder | TOYOTA MOTOR CORPORATION Programming Contest 2023#1 (AtCoder Beginner Contest 298) | 2023년 4월 15일 21:00 | 2023년 4월 15일 22:40 |
-| CodeChef | Starters 86 | 2023년 4월 19일 23:30 | 2023년 4월 20일 02:30 |
+| CodeChef | Starters 86 | 2023년 4월 19일 23:30 | 2023년 4월 20일 01:30 |
 | AtCoder | Tokio Marine & Nichido Fire Insurance Programming Contest 2023（AtCoder Beginner Contest 299) | 2023년 4월 22일 21:00 | 2023년 4월 22일 22:40 |
 | AtCoder | ALGO ARTIS Programming Contest 2023（AtCoder Heuristic Contest 020） | 2023년 4월 23일 15:00 | 2023년 4월 23일 19:00 |
-| CodeChef | Starters 87 | 2023년 4월 26일 23:30 | 2023년 4월 27일 02:30 |
+| CodeChef | Starters 87 | 2023년 4월 26일 23:30 | 2023년 4월 27일 01:30 |
 | Programmers | 2023 Summer Coding - 스타트업 인턴 프로그램 | 2023년 4월 29일 13:00 | 2023년 4월 29일 15:00 |
+| AtCoder | ユニークビジョンプログラミングコンテスト2023 春 (AtCoder Beginner Contest 300) | 2023년 4월 29일 21:00 | 2023년 4월 29일 22:40 |
 | BOJ Open |  | 2023년 4월 30일 12:31 | 2023년 5월 1일 01:01 |
 | AtCoder | AtCoder Grand Contest 062 | 2023년 4월 30일 21:00 | 2023년 5월 1일 00:00 |
 | BOJ Open | 대회 | 2023년 5월 8일 12:00 | 2023년 5월 9일 12:00 |
 | BOJ Open | 제1회 유틸컵 | 2023년 6월 2일 20:00 | 2023년 6월 4일 20:00 |
 
-Updated at 2023/04/05, 09:41:38
+Updated at 2023/04/05, 21:22:27
