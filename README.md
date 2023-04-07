@@ -9,6 +9,9 @@ Competitive Programming Contests (up-to-date)
  Contest ID | Title | Start Time | End Time |
 ---|---|---|---|
 | BOJ Open | 2023 IamCoder Qualification Test Open | 2023년 4월 7일 19:00 | 2023년 4월 7일 22:00 |
+
+ Contest ID | Title | Start Time | End Time |
+---|---|---|---|
 | BOJ Open | 2023 가지컵 | 2023년 4월 8일 13:00 | 2023년 4월 8일 18:00 |
 | AtCoder | AtCoder Regular Contest 159 | 2023년 4월 8일 21:00 | 2023년 4월 8일 23:00 |
 | Codeforces | Codeforces Round 864 (Div. 2) | 2023년 4월 8일 23:05 | 2023년 4월 9일 01:05 |
@@ -20,6 +23,7 @@ Competitive Programming Contests (up-to-date)
 | BOJ Open | 제1회 와쿠(AGCU)컵 | 2023년 4월 15일 12:00 | 2023년 4월 15일 17:00 |
 | AtCoder | TOYOTA MOTOR CORPORATION Programming Contest 2023#1 (AtCoder Beginner Contest 298) | 2023년 4월 15일 21:00 | 2023년 4월 15일 22:40 |
 | CodeChef | Starters 86 | 2023년 4월 19일 23:30 | 2023년 4월 20일 01:30 |
+| Programmers | 2023 골프존 게임 개발자 채용 챌린지 | 2023년 4월 22일 13:00 | 2023년 4월 22일 15:00 |
 | AtCoder | Tokio Marine & Nichido Fire Insurance Programming Contest 2023（AtCoder Beginner Contest 299) | 2023년 4월 22일 21:00 | 2023년 4월 22일 22:40 |
 | AtCoder | ALGO ARTIS Programming Contest 2023（AtCoder Heuristic Contest 020） | 2023년 4월 23일 15:00 | 2023년 4월 23일 19:00 |
 | CodeChef | Starters 87 | 2023년 4월 26일 23:30 | 2023년 4월 27일 01:30 |
@@ -29,6 +33,7 @@ Competitive Programming Contests (up-to-date)
 | AtCoder | AtCoder Grand Contest 062 | 2023년 4월 30일 21:00 | 2023년 5월 1일 00:00 |
 | BOJ Open | 대회 | 2023년 5월 8일 12:00 | 2023년 5월 9일 12:00 |
 | AtCoder | AtCoder Regular Contest 160 | 2023년 5월 14일 21:00 | 2023년 5월 14일 23:00 |
+| BOJ Open | 2023 인하대학교 프로그래밍 경진대회(IUPC) Open Contest | 2023년 5월 21일 13:00 | 2023년 5월 21일 18:00 |
 | BOJ Open | 제1회 유틸컵 | 2023년 6월 2일 20:00 | 2023년 6월 4일 20:00 |
 
-Updated at 2023/04/07, 09:43:58
+Updated at 2023/04/07, 21:17:35
