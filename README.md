@@ -33,4 +33,4 @@ Competitive Programming Contests (up-to-date)
 | BOJ Open | 2023 인하대학교 프로그래밍 경진대회(IUPC) Open Contest | 2023년 5월 21일 13:00 | 2023년 5월 21일 18:00 |
 | BOJ Open | 제1회 유틸컵 | 2023년 6월 2일 20:00 | 2023년 6월 4일 20:00 |
 
-Updated at 2023/04/12, 09:49:53
+Updated at 2023/04/12, 21:18:42
