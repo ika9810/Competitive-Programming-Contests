@@ -3,38 +3,46 @@ import datetime
 import pytz
 from bs4 import BeautifulSoup
 
-url = 'https://www.acmicpc.net/contest/other/list'
-response = requests.get(url, headers={"User-Agent": "Mozilla/5.0"})
+def get_contest_info(url):
+    response = requests.get(url, headers={"User-Agent": "Mozilla/5.0"})
+    soup = BeautifulSoup(response.text, 'html.parser')
+    tables = soup.find_all('table')
 
-timeformat = datetime.datetime.now(pytz.timezone('Asia/Seoul'))
-timeformat = f"{timeformat.strftime('%Y-%m-%d')}"
-dateformat = datetime.datetime.now(pytz.timezone('Asia/Seoul'))
-date = f"{dateformat.strftime('%Y/%m/%d, %H:%M:%S')}"
+    output = ''
+    for table in tables:
+        output += '|'.join([' Contest ID ', ' Title ', ' Start Time ', ' End Time ']) + '|\n'
+        output += '|'.join(['---'] * 4) + '|\n'
+        for row in table.tbody.find_all('tr'):
+            cols = row.find_all('td')
+            output += f"| {cols[0].text.strip()} | {cols[1].text.strip()} | {cols[2].text.strip()} | {cols[3].text.strip()} |\n"
+        output += '\n'
+    return output
 
-soup = BeautifulSoup(response.text, 'html.parser')
-tables = soup.find_all('table')
+def save_to_file(filename, content):
+    with open(filename, 'w') as f:
+        f.write(content)
+        f.close()
 
-output = ''
-for table in tables:
-    output += '|'.join([' Contest ID ', ' Title ', ' Start Time ', ' End Time ']) + '|\n'
-    output += '|'.join(['---'] * 4) + '|\n'
-    for row in table.tbody.find_all('tr'):
-        cols = row.find_all('td')
-        output += f"| {cols[0].text.strip()} | {cols[1].text.strip()} | {cols[2].text.strip()} | {cols[3].text.strip()} |\n"
-    output += '\n'
+def main():
+    url = 'https://www.acmicpc.net/contest/other/list'
+    output = get_contest_info(url)
 
-f = open('README.md')
-lines = f.readlines()
-f.close()
-with open('README.md', 'w') as f:
-    res = ""
-    for i in range(7):
-        res += lines[i]
+    timeformat = datetime.datetime.now(pytz.timezone('Asia/Seoul'))
+    timeformat = f"{timeformat.strftime('%Y-%m-%d')}"
+    dateformat = datetime.datetime.now(pytz.timezone('Asia/Seoul'))
+    date = f"{dateformat.strftime('%Y/%m/%d, %H:%M:%S')}"
+
+    f = open('README.md')
+    lines = f.readlines()
+    f.close()
+    
+    res = "".join(lines[:7])
     output = res + '\n' + output + "Updated at " + date + '\n'
-    f.write(output)
-    f.close()
+    save_to_file('README.md', output)
 
-with open('./archive/'+timeformat+".md", 'w') as f:
+    archive_filename = './archive/' + timeformat + ".md"
     output += "Updated at " + date + '\n'
-    f.write(output)
-    f.close()
+    save_to_file(archive_filename, output)
+
+if __name__ == "__main__":
+    main()
