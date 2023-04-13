@@ -14,7 +14,10 @@ def get_contest_info(url):
         output += '|'.join(['---'] * 4) + '|\n'
         for row in table.tbody.find_all('tr'):
             cols = row.find_all('td')
-            output += f"| {cols[0].text.strip()} | {cols[1].text.strip()} | {cols[2].text.strip()} | {cols[3].text.strip()} |\n"
+            if len(cols[1].text.strip()) == 0 or cols[1].text.strip() == "대회":
+                continue
+            else:
+                output += f"| {cols[0].text.strip()} | {cols[1].text.strip()} | {cols[2].text.strip()} | {cols[3].text.strip()} |\n"
         output += '\n'
     return output
 
