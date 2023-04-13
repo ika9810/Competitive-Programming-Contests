@@ -22,14 +22,12 @@ Competitive Programming Contests (up-to-date)
 | AtCoder | ユニークビジョンプログラミングコンテスト2023 春 (AtCoder Beginner Contest 300) | 2023년 4월 29일 21:00 | 2023년 4월 29일 22:40 |
 | Codeforces | Codeforces Round (Div. 1) | 2023년 4월 29일 23:35 | 2023년 4월 30일 01:50 |
 | Codeforces | Codeforces Round (Div. 2) | 2023년 4월 29일 23:35 | 2023년 4월 30일 01:50 |
-| BOJ Open |  | 2023년 4월 30일 12:31 | 2023년 5월 1일 01:01 |
 | AtCoder | AtCoder Grand Contest 062 | 2023년 4월 30일 21:00 | 2023년 5월 1일 00:00 |
 | BOJ Open | 2023 부산대학교 CodeRace Open Contest | 2023년 5월 6일 14:00 | 2023년 5월 6일 18:00 |
-| BOJ Open | 대회 | 2023년 5월 8일 12:00 | 2023년 5월 9일 12:00 |
 | AtCoder | パナソニックグループプログラミングコンテスト2023（AtCoder Beginner Contest 302） | 2023년 5월 13일 21:00 | 2023년 5월 13일 22:40 |
 | AtCoder | AtCoder Regular Contest 160 | 2023년 5월 14일 21:00 | 2023년 5월 14일 23:00 |
 | BOJ Open | 2023 서강대학교 청정수컵 Open Contest | 2023년 5월 21일 12:00 | 2023년 5월 21일 17:00 |
 | BOJ Open | 2023 인하대학교 프로그래밍 경진대회(IUPC) Open Contest | 2023년 5월 21일 13:00 | 2023년 5월 21일 18:00 |
 | BOJ Open | 제1회 유틸컵 | 2023년 6월 2일 20:00 | 2023년 6월 4일 20:00 |
 
-Updated at 2023/04/13, 14:01:10
+Updated at 2023/04/13, 14:33:31
