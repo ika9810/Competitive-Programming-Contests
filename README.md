@@ -9,11 +9,10 @@ Competitive Programming Contests (up-to-date)
  Contest ID | Title | Start Time | End Time |
 ---|---|---|---|
 | Codeforces | ICPC 2023 Online Spring Challenge powered by Huawei | 2023년 4월 13일 20:00 | 2023년 4월 27일 20:00 |
+| AtCoder | Tokio Marine & Nichido Fire Insurance Programming Contest 2023（AtCoder Beginner Contest 299) | 2023년 4월 22일 21:00 | 2023년 4월 22일 22:40 |
 
  Contest ID | Title | Start Time | End Time |
 ---|---|---|---|
-| Programmers | 2023 골프존 게임 개발자 채용 챌린지 | 2023년 4월 22일 13:00 | 2023년 4월 22일 15:00 |
-| AtCoder | Tokio Marine & Nichido Fire Insurance Programming Contest 2023（AtCoder Beginner Contest 299) | 2023년 4월 22일 21:00 | 2023년 4월 22일 22:40 |
 | AtCoder | ALGO ARTIS Programming Contest 2023（AtCoder Heuristic Contest 020） | 2023년 4월 23일 15:00 | 2023년 4월 23일 19:00 |
 | CodeChef | Starters 87 | 2023년 4월 26일 23:30 | 2023년 4월 27일 01:30 |
 | Programmers | 2023 Summer Coding - 스타트업 인턴 프로그램 | 2023년 4월 29일 13:00 | 2023년 4월 29일 15:00 |
@@ -35,4 +34,4 @@ Competitive Programming Contests (up-to-date)
 | CodeChef | STARTERS 92 | 2023년 5월 31일 23:30 | 2023년 6월 1일 01:30 |
 | BOJ Open | 제1회 유틸컵 | 2023년 6월 2일 20:00 | 2023년 6월 4일 20:00 |
 
-Updated at 2023/04/22, 09:50:33
+Updated at 2023/04/22, 21:16:32
