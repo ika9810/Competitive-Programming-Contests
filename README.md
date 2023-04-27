@@ -8,10 +8,6 @@ Competitive Programming Contests (up-to-date)
 
  Contest ID | Title | Start Time | End Time |
 ---|---|---|---|
-| Codeforces | ICPC 2023 Online Spring Challenge powered by Huawei | 2023년 4월 13일 20:00 | 2023년 4월 27일 20:00 |
-
- Contest ID | Title | Start Time | End Time |
----|---|---|---|
 | Programmers | 2023 Summer Coding - 스타트업 인턴 프로그램 | 2023년 4월 29일 13:00 | 2023년 4월 29일 15:00 |
 | AtCoder | ユニークビジョンプログラミングコンテスト2023 春 (AtCoder Beginner Contest 300) | 2023년 4월 29일 21:00 | 2023년 4월 29일 22:40 |
 | Codeforces | Codeforces Round (Div. 1) | 2023년 4월 29일 23:35 | 2023년 4월 30일 01:50 |
@@ -35,4 +31,4 @@ Competitive Programming Contests (up-to-date)
 | CodeChef | Starters 92 | 2023년 5월 31일 23:30 | 2023년 6월 1일 01:30 |
 | BOJ Open | 제1회 유틸컵 | 2023년 6월 2일 20:00 | 2023년 6월 4일 20:00 |
 
-Updated at 2023/04/27, 09:53:26
+Updated at 2023/04/27, 21:17:46
