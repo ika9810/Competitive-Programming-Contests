@@ -9,7 +9,9 @@ Competitive Programming Contests (up-to-date)
  Contest ID | Title | Start Time | End Time |
 ---|---|---|---|
 | Programmers | 2023 우아한테크캠프 6기 | 2023년 5월 6일 13:00 | 2023년 5월 13일 17:00 |
-| BOJ Open | 2023 부산대학교 CodeRace Open Contest | 2023년 5월 6일 14:00 | 2023년 5월 6일 18:00 |
+
+ Contest ID | Title | Start Time | End Time |
+---|---|---|---|
 | Codeforces | Codeforces Round 871 (Div. 4) | 2023년 5월 6일 23:35 | 2023년 5월 7일 01:50 |
 | Codeforces | Codeforces Round 872 (Div. 1) | 2023년 5월 8일 21:05 | 2023년 5월 8일 23:05 |
 | Codeforces | Codeforces Round 872 (Div. 2) | 2023년 5월 8일 21:05 | 2023년 5월 8일 23:05 |
@@ -36,4 +38,4 @@ Competitive Programming Contests (up-to-date)
 | CodeChef | Starters 92 | 2023년 5월 31일 23:30 | 2023년 6월 1일 01:30 |
 | BOJ Open | 제1회 유틸컵 | 2023년 6월 2일 20:00 | 2023년 6월 4일 20:00 |
 
-Updated at 2023/05/06, 09:47:03
+Updated at 2023/05/06, 21:16:37
