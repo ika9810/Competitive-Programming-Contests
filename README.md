@@ -12,7 +12,7 @@ Competitive Programming Contests (up-to-date)
 
  Contest ID | Title | Start Time | End Time |
 ---|---|---|---|
-| CodeChef | Starters 89 | 2023년 5월 10일 23:30 | 2023년 5월 11일 01:30 |
+| CodeChef | Starters 89 (Rated till 5 Stars) | 2023년 5월 10일 23:30 | 2023년 5월 11일 01:30 |
 | Codeforces | Educational Codeforces Round 148 (Rated for Div. 2) | 2023년 5월 12일 23:35 | 2023년 5월 13일 01:35 |
 | BOJ Open | 2023 KAIST RUN Spring Open Contest | 2023년 5월 13일 13:00 | 2023년 5월 13일 17:00 |
 | AtCoder | パナソニックグループプログラミングコンテスト2023（AtCoder Beginner Contest 301） | 2023년 5월 13일 21:00 | 2023년 5월 13일 22:40 |
@@ -39,4 +39,4 @@ Competitive Programming Contests (up-to-date)
 | CodeChef | Starters 92 | 2023년 5월 31일 23:30 | 2023년 6월 1일 01:30 |
 | BOJ Open | 제1회 유틸컵 | 2023년 6월 2일 20:00 | 2023년 6월 4일 20:00 |
 
-Updated at 2023/05/10, 00:14:54
+Updated at 2023/05/10, 01:17:56
