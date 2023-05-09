@@ -39,4 +39,4 @@ Competitive Programming Contests (up-to-date)
 | CodeChef | Starters 92 | 2023년 5월 31일 23:30 | 2023년 6월 1일 01:30 |
 | BOJ Open | 제1회 유틸컵 | 2023년 6월 2일 20:00 | 2023년 6월 4일 20:00 |
 
-Updated at 2023/05/09, 09:51:58
+Updated at 2023/05/09, 21:55:52
