@@ -9,7 +9,6 @@ Competitive Programming Contests (up-to-date)
  Contest ID | Title | Start Time | End Time |
 ---|---|---|---|
 | Programmers | 2023 우아한테크캠프 6기 | 2023년 5월 6일 13:00 | 2023년 5월 13일 17:00 |
-| CodeChef | Starters 89 (Rated till 5 Stars) | 2023년 5월 10일 23:30 | 2023년 5월 11일 01:30 |
 
  Contest ID | Title | Start Time | End Time |
 ---|---|---|---|
@@ -40,4 +39,4 @@ Competitive Programming Contests (up-to-date)
 | BOJ Open | 제1회 유틸컵 | 2023년 6월 2일 20:00 | 2023년 6월 4일 20:00 |
 | AtCoder | ALGO ARTIS Programming Contest 2023（AtCoder Heuristic Contest 020） | 2023년 6월 11일 15:00 | 2023년 6월 11일 19:00 |
 
-Updated at 2023/05/11, 01:20:36
+Updated at 2023/05/11, 03:24:33
