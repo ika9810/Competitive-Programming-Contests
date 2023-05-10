@@ -38,5 +38,6 @@ Competitive Programming Contests (up-to-date)
 | AtCoder | AtCoder Regular Contest 161 | 2023년 5월 28일 21:00 | 2023년 5월 28일 23:00 |
 | CodeChef | Starters 92 | 2023년 5월 31일 23:30 | 2023년 6월 1일 01:30 |
 | BOJ Open | 제1회 유틸컵 | 2023년 6월 2일 20:00 | 2023년 6월 4일 20:00 |
+| AtCoder | ALGO ARTIS Programming Contest 2023（AtCoder Heuristic Contest 020） | 2023년 6월 11일 15:00 | 2023년 6월 11일 19:00 |
 
-Updated at 2023/05/10, 12:14:40
+Updated at 2023/05/10, 13:16:38
