@@ -17,8 +17,8 @@ Competitive Programming Contests (up-to-date)
 | AtCoder | パナソニックグループプログラミングコンテスト2023（AtCoder Beginner Contest 301） | 2023년 5월 13일 21:00 | 2023년 5월 13일 22:40 |
 | AtCoder | パナソニックグループプログラミングコンテスト2023（AtCoder Beginner Contest 302） | 2023년 5월 13일 21:00 | 2023년 5월 13일 22:40 |
 | AtCoder | AtCoder Regular Contest 160 | 2023년 5월 14일 21:00 | 2023년 5월 14일 23:00 |
-| Codeforces | Codeforces Round (Div. 1) | 2023년 5월 14일 23:35 | 2023년 5월 15일 01:35 |
-| Codeforces | Codeforces Round (Div. 2) | 2023년 5월 14일 23:35 | 2023년 5월 15일 01:35 |
+| Codeforces | Codeforces Round 873 (Div. 1) | 2023년 5월 14일 23:35 | 2023년 5월 15일 01:35 |
+| Codeforces | Codeforces Round 873 (Div. 2) | 2023년 5월 14일 23:35 | 2023년 5월 15일 01:35 |
 | CodeChef | Starters 90 | 2023년 5월 17일 23:30 | 2023년 5월 18일 01:30 |
 | Codeforces | Codeforces Round (Div. 3) | 2023년 5월 19일 23:35 | 2023년 5월 20일 01:50 |
 | Programmers | 2023 Dev-Matching : 앱 개발자 | 2023년 5월 20일 13:00 | 2023년 5월 23일 10:00 |
@@ -39,4 +39,4 @@ Competitive Programming Contests (up-to-date)
 | BOJ Open | 제1회 유틸컵 | 2023년 6월 2일 20:00 | 2023년 6월 4일 20:00 |
 | AtCoder | ALGO ARTIS Programming Contest 2023（AtCoder Heuristic Contest 020） | 2023년 6월 11일 15:00 | 2023년 6월 11일 19:00 |
 
-Updated at 2023/05/11, 20:11:15
+Updated at 2023/05/11, 21:27:49
