@@ -39,4 +39,4 @@ Competitive Programming Contests (up-to-date)
 | BOJ Open | 제1회 유틸컵 | 2023년 6월 2일 20:00 | 2023년 6월 4일 20:00 |
 | AtCoder | ALGO ARTIS Programming Contest 2023（AtCoder Heuristic Contest 020） | 2023년 6월 11일 15:00 | 2023년 6월 11일 19:00 |
 
-Updated at 2023/05/11, 17:17:18
+Updated at 2023/05/11, 18:13:34
