@@ -9,7 +9,6 @@ Competitive Programming Contests (up-to-date)
  Contest ID | Title | Start Time | End Time |
 ---|---|---|---|
 | Programmers | 2023 우아한테크캠프 6기 | 2023년 5월 6일 13:00 | 2023년 5월 13일 17:00 |
-| Codeforces | Educational Codeforces Round 148 (Rated for Div. 2) | 2023년 5월 12일 23:35 | 2023년 5월 13일 01:35 |
 
  Contest ID | Title | Start Time | End Time |
 ---|---|---|---|
@@ -39,4 +38,4 @@ Competitive Programming Contests (up-to-date)
 | BOJ Open | 제1회 유틸컵 | 2023년 6월 2일 20:00 | 2023년 6월 4일 20:00 |
 | AtCoder | ALGO ARTIS Programming Contest 2023（AtCoder Heuristic Contest 020） | 2023년 6월 11일 15:00 | 2023년 6월 11일 19:00 |
 
-Updated at 2023/05/13, 01:17:30
+Updated at 2023/05/13, 02:12:08
