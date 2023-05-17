@@ -29,8 +29,9 @@ Competitive Programming Contests (up-to-date)
 | CodeChef | Starters 93 | 2023년 6월 7일 23:30 | 2023년 6월 8일 01:30 |
 | AtCoder | ALGO ARTIS Programming Contest 2023（AtCoder Heuristic Contest 020） | 2023년 6월 11일 15:00 | 2023년 6월 11일 19:00 |
 | CodeChef | Starters 94 | 2023년 6월 14일 23:30 | 2023년 6월 15일 01:30 |
+| BOJ Open | 송도고 주최 인천지역 중고등학생 대상 코드마스터 2023 Open Contest | 2023년 6월 17일 14:00 | 2023년 6월 17일 18:00 |
 | AtCoder | AtCoder Regular Contest 162 | 2023년 6월 18일 21:00 | 2023년 6월 18일 23:00 |
 | CodeChef | Starters 95 | 2023년 6월 21일 23:30 | 2023년 6월 22일 01:30 |
 | CodeChef | Starters 96 | 2023년 6월 28일 23:30 | 2023년 6월 29일 01:30 |
 
-Updated at 2023/05/17, 09:48:58
+Updated at 2023/05/17, 21:15:57
