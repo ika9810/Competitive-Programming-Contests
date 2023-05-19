@@ -26,6 +26,7 @@ Competitive Programming Contests (up-to-date)
 | BOJ Open | 월간 향유회 2023. 05. | 2023년 5월 28일 19:00 | 2023년 5월 28일 21:00 |
 | AtCoder | AtCoder Regular Contest 161 | 2023년 5월 28일 21:00 | 2023년 5월 28일 23:00 |
 | CodeChef | Starters 92 | 2023년 5월 31일 23:30 | 2023년 6월 1일 01:30 |
+| AtCoder | Tokio Marine & Nichido Fire Insurance Programming Contest 2023（AtCoder Beginner Contest 304) | 2023년 6월 3일 21:00 | 2023년 6월 3일 22:40 |
 | CodeChef | Starters 93 | 2023년 6월 7일 23:30 | 2023년 6월 8일 01:30 |
 | AtCoder | ALGO ARTIS Programming Contest 2023（AtCoder Heuristic Contest 020） | 2023년 6월 11일 15:00 | 2023년 6월 11일 19:00 |
 | CodeChef | Starters 94 | 2023년 6월 14일 23:30 | 2023년 6월 15일 01:30 |
@@ -35,4 +36,4 @@ Competitive Programming Contests (up-to-date)
 | CodeChef | Starters 95 | 2023년 6월 21일 23:30 | 2023년 6월 22일 01:30 |
 | CodeChef | Starters 96 | 2023년 6월 28일 23:30 | 2023년 6월 29일 01:30 |
 
-Updated at 2023/05/19, 09:46:32
+Updated at 2023/05/19, 21:15:13
