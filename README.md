@@ -9,9 +9,11 @@ Competitive Programming Contests (up-to-date)
  Contest ID | Title | Start Time | End Time |
 ---|---|---|---|
 | Programmers | 2023 Dev-Matching : 앱 개발자 | 2023년 5월 20일 13:00 | 2023년 5월 23일 10:00 |
-| BOJ Open | 2023 SCON Open Contest | 2023년 5월 20일 14:30 | 2023년 5월 20일 17:30 |
 | BOJ Open | 2023 POSTECH Programming Contest Open | 2023년 5월 20일 18:00 | 2023년 5월 20일 23:00 |
 | AtCoder | TOYOTA MOTOR CORPORATION Programming Contest 2023#2 (AtCoder Beginner Contest 302) | 2023년 5월 20일 21:00 | 2023년 5월 20일 22:40 |
+
+ Contest ID | Title | Start Time | End Time |
+---|---|---|---|
 | BOJ Open | 2023 인하대학교 프로그래밍 경진대회(IUPC) Open Contest | 2023년 5월 21일 13:00 | 2023년 5월 21일 18:00 |
 | BOJ Open | 2023 서강대학교 청정수컵 Open Contest | 2023년 5월 21일 18:00 | 2023년 5월 21일 23:00 |
 | AtCoder | AtCoder Grand Contest 062 | 2023년 5월 21일 21:00 | 2023년 5월 22일 00:00 |
@@ -38,4 +40,4 @@ Competitive Programming Contests (up-to-date)
 | CodeChef | Starters 95 | 2023년 6월 21일 23:30 | 2023년 6월 22일 01:30 |
 | CodeChef | Starters 96 | 2023년 6월 28일 23:30 | 2023년 6월 29일 01:30 |
 
-Updated at 2023/05/20, 09:42:48
+Updated at 2023/05/20, 21:14:18
