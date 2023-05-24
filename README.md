@@ -31,4 +31,4 @@ Competitive Programming Contests (up-to-date)
 | CodeChef | Starters 95 | 2023년 6월 21일 23:30 | 2023년 6월 22일 01:30 |
 | CodeChef | Starters 96 | 2023년 6월 28일 23:30 | 2023년 6월 29일 01:30 |
 
-Updated at 2023/05/24, 09:47:18
+Updated at 2023/05/24, 21:16:07
