@@ -8,9 +8,10 @@ Competitive Programming Contests (up-to-date)
 
  Contest ID | Title | Start Time | End Time |
 ---|---|---|---|
-| BOJ Open | 2023 서울대학교 SCSC 프로그래밍 경시대회 Open Contest | 2023년 5월 28일 12:00 | 2023년 5월 28일 15:00 |
-| BOJ Open | 월간 향유회 2023. 05. | 2023년 5월 28일 19:00 | 2023년 5월 28일 21:00 |
 | AtCoder | AtCoder Regular Contest 161 | 2023년 5월 28일 21:00 | 2023년 5월 28일 23:00 |
+
+ Contest ID | Title | Start Time | End Time |
+---|---|---|---|
 | Codeforces | Codeforces Round 875 (Div. 1) | 2023년 5월 28일 23:35 | 2023년 5월 29일 02:05 |
 | Codeforces | Codeforces Round 875 (Div. 2) | 2023년 5월 28일 23:35 | 2023년 5월 29일 02:05 |
 | CodeChef | Starters 92 | 2023년 5월 31일 23:30 | 2023년 6월 1일 01:30 |
@@ -30,4 +31,4 @@ Competitive Programming Contests (up-to-date)
 | Programmers | 23년 현대모비스 알고리즘 경진대회 | 2023년 6월 30일 14:00 | 2023년 7월 7일 20:00 |
 | AtCoder | AtCoder Beginner Contest 308 | 2023년 7월 1일 21:00 | 2023년 7월 1일 22:40 |
 
-Updated at 2023/05/28, 09:51:49
+Updated at 2023/05/28, 21:14:12
