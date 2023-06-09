@@ -22,7 +22,7 @@ Competitive Programming Contests (up-to-date)
 | CodeChef | Starters 95 | 2023년 6월 21일 23:30 | 2023년 6월 22일 01:30 |
 | Codeforces | CodeTON Round 5 (Div. 1 + Div. 2, Rated, Prizes!) | 2023년 6월 24일 23:05 | 2023년 6월 25일 02:05 |
 | BOJ Open | 제2회 초콜릿컵 | 2023년 6월 25일 13:00 | 2023년 6월 25일 18:00 |
-| AtCoder | TOYOTA MOTOR CORPORATION Heuristic Programming Contest 2023 （AtCoder Heuristic Contest 021） | 2023년 6월 25일 15:00 | 2023년 6월 25일 19:00 |
+| AtCoder | TOYOTA Programming Contest 2023 Summer（AtCoder Heuristic Contest 021） | 2023년 6월 25일 15:00 | 2023년 6월 25일 19:00 |
 | BOJ Open | 월간 향유회 2023. 06. | 2023년 6월 25일 19:00 | 2023년 6월 25일 21:00 |
 | CodeChef | Starters 96 | 2023년 6월 28일 23:30 | 2023년 6월 29일 01:30 |
 | Programmers | 23년 현대모비스 알고리즘 경진대회 | 2023년 6월 30일 14:00 | 2023년 7월 7일 20:00 |
@@ -30,4 +30,4 @@ Competitive Programming Contests (up-to-date)
 | BOJ Open | 2023 브실컵 | 2023년 7월 8일 12:00 | 2023년 7월 8일 18:00 |
 | AtCoder | Denso Create Programming Contest 2023 (AtCoder Beginner Contest 309) | 2023년 7월 8일 21:00 | 2023년 7월 8일 22:40 |
 
-Updated at 2023/06/09, 09:55:15
+Updated at 2023/06/09, 21:16:13
