@@ -8,7 +8,6 @@ Competitive Programming Contests (up-to-date)
 
  Contest ID | Title | Start Time | End Time |
 ---|---|---|---|
-| AtCoder | ALGO ARTIS Programming Contest 2023（AtCoder Heuristic Contest 020） | 2023년 6월 11일 15:00 | 2023년 6월 11일 19:00 |
 | Codeforces | Educational Codeforces Round 150 (Rated for Div. 2) | 2023년 6월 12일 23:35 | 2023년 6월 13일 01:35 |
 | CodeChef | Starters 94 | 2023년 6월 14일 23:30 | 2023년 6월 15일 01:30 |
 | Programmers | 2023 Dev-Matching : 웹 프론트엔드 개발자(상반기)-2 | 2023년 6월 17일 13:00 | 2023년 6월 17일 16:00 |
@@ -29,4 +28,4 @@ Competitive Programming Contests (up-to-date)
 | BOJ Open | 2023 브실컵 | 2023년 7월 8일 12:00 | 2023년 7월 8일 18:00 |
 | AtCoder | Denso Create Programming Contest 2023 (AtCoder Beginner Contest 309) | 2023년 7월 8일 21:00 | 2023년 7월 8일 22:40 |
 
-Updated at 2023/06/11, 09:57:42
+Updated at 2023/06/11, 21:15:16
