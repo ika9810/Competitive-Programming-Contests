@@ -32,4 +32,4 @@ Competitive Programming Contests (up-to-date)
 | AtCoder | AtCoder Regular Contest 164 | 2023년 7월 9일 21:00 | 2023년 7월 9일 23:00 |
 | AtCoder | freee Programming Contest 2023（AtCoder Beginner Contest 310） | 2023년 7월 15일 21:00 | 2023년 7월 15일 22:40 |
 
-Updated at 2023/06/15, 09:52:05
+Updated at 2023/06/15, 21:16:40
