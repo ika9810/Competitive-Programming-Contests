@@ -8,8 +8,10 @@ Competitive Programming Contests (up-to-date)
 
  Contest ID | Title | Start Time | End Time |
 ---|---|---|---|
-| Codeforces | Codeforces Round 879 (Div. 2) | 2023년 6월 18일 17:05 | 2023년 6월 18일 19:05 |
 | AtCoder | AtCoder Regular Contest 162 | 2023년 6월 18일 21:00 | 2023년 6월 18일 23:00 |
+
+ Contest ID | Title | Start Time | End Time |
+---|---|---|---|
 | Codeforces | Codeforces Round 880 (Div. 1) | 2023년 6월 18일 23:35 | 2023년 6월 19일 01:35 |
 | Codeforces | Codeforces Round 880 (Div. 2) | 2023년 6월 18일 23:35 | 2023년 6월 19일 01:35 |
 | Codeforces | Codeforces Round 881 (Div. 3) | 2023년 6월 20일 23:35 | 2023년 6월 21일 01:50 |
@@ -30,4 +32,4 @@ Competitive Programming Contests (up-to-date)
 | AtCoder | AtCoder Regular Contest 164 | 2023년 7월 9일 21:00 | 2023년 7월 9일 23:00 |
 | AtCoder | freee Programming Contest 2023（AtCoder Beginner Contest 310） | 2023년 7월 15일 21:00 | 2023년 7월 15일 22:40 |
 
-Updated at 2023/06/18, 09:57:49
+Updated at 2023/06/18, 21:15:17
