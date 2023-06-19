@@ -25,5 +25,6 @@ Competitive Programming Contests (up-to-date)
 | AtCoder | Denso Create Programming Contest 2023 (AtCoder Beginner Contest 309) | 2023년 7월 8일 21:00 | 2023년 7월 8일 22:40 |
 | AtCoder | AtCoder Regular Contest 164 | 2023년 7월 9일 21:00 | 2023년 7월 9일 23:00 |
 | AtCoder | freee Programming Contest 2023（AtCoder Beginner Contest 310） | 2023년 7월 15일 21:00 | 2023년 7월 15일 22:40 |
+| AtCoder | AtCoder Beginner Contest 313 | 2023년 8월 5일 21:00 | 2023년 8월 5일 22:40 |
 
-Updated at 2023/06/19, 09:53:44
+Updated at 2023/06/19, 21:18:07
