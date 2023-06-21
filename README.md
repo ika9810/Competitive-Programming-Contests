@@ -8,7 +8,7 @@ Competitive Programming Contests (up-to-date)
 
  Contest ID | Title | Start Time | End Time |
 ---|---|---|---|
-| CodeChef | Starters 95 | 2023년 6월 21일 23:30 | 2023년 6월 22일 01:30 |
+| CodeChef | Starters 95 (Rated till 6 Stars) | 2023년 6월 21일 23:30 | 2023년 6월 22일 01:30 |
 | BOJ Open | FunctionCup 2023 Open Contest | 2023년 6월 24일 13:00 | 2023년 6월 24일 18:00 |
 | AtCoder | Tokio Marine & Nichido Fire Insurance Programming Contest 2023（AtCoder Beginner Contest 307) | 2023년 6월 24일 21:00 | 2023년 6월 24일 22:40 |
 | Codeforces | CodeTON Round 5 (Div. 1 + Div. 2, Rated, Prizes!) | 2023년 6월 24일 23:05 | 2023년 6월 25일 02:05 |
@@ -24,10 +24,11 @@ Competitive Programming Contests (up-to-date)
 | BOJ Open | 2023 브실컵 | 2023년 7월 8일 12:00 | 2023년 7월 8일 18:00 |
 | AtCoder | Denso Create Programming Contest 2023 (AtCoder Beginner Contest 309) | 2023년 7월 8일 21:00 | 2023년 7월 8일 22:40 |
 | AtCoder | AtCoder Regular Contest 164 | 2023년 7월 9일 21:00 | 2023년 7월 9일 23:00 |
+| Codeforces | Codeforces Round (Div. 1 + Div. 2) | 2023년 7월 11일 23:35 | 2023년 7월 12일 01:35 |
 | CodeChef | Starters 98 | 2023년 7월 12일 23:30 | 2023년 7월 13일 01:30 |
 | AtCoder | freee Programming Contest 2023（AtCoder Beginner Contest 310） | 2023년 7월 15일 21:00 | 2023년 7월 15일 22:40 |
 | CodeChef | Starters 99 | 2023년 7월 19일 23:30 | 2023년 7월 20일 01:30 |
 | CodeChef | Starters 100 | 2023년 7월 26일 23:30 | 2023년 7월 27일 01:30 |
 | AtCoder | AtCoder Beginner Contest 313 | 2023년 8월 5일 21:00 | 2023년 8월 5일 22:40 |
 
-Updated at 2023/06/21, 09:52:35
+Updated at 2023/06/21, 21:16:59
