@@ -8,8 +8,10 @@ Competitive Programming Contests (up-to-date)
 
  Contest ID | Title | Start Time | End Time |
 ---|---|---|---|
-| BOJ Open | FunctionCup 2023 Open Contest | 2023년 6월 24일 13:00 | 2023년 6월 24일 18:00 |
 | AtCoder | Tokio Marine & Nichido Fire Insurance Programming Contest 2023（AtCoder Beginner Contest 307) | 2023년 6월 24일 21:00 | 2023년 6월 24일 22:40 |
+
+ Contest ID | Title | Start Time | End Time |
+---|---|---|---|
 | Codeforces | CodeTON Round 5 (Div. 1 + Div. 2, Rated, Prizes!) | 2023년 6월 24일 23:05 | 2023년 6월 25일 02:05 |
 | BOJ Open | 제2회 초콜릿컵 | 2023년 6월 25일 13:00 | 2023년 6월 25일 18:00 |
 | AtCoder | TOYOTA Programming Contest 2023 Summer（AtCoder Heuristic Contest 021） | 2023년 6월 25일 15:00 | 2023년 6월 25일 19:00 |
@@ -35,4 +37,4 @@ Competitive Programming Contests (up-to-date)
 | AtCoder | World Tour Finals 2022 Day2 | 2023년 9월 9일 13:00 | 2023년 9월 9일 17:00 |
 | AtCoder | World Tour Finals 2022 Day2（Open Contest） | 2023년 9월 9일 13:00 | 2023년 9월 9일 17:00 |
 
-Updated at 2023/06/24, 09:57:09
+Updated at 2023/06/24, 21:17:17
