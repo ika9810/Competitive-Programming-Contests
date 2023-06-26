@@ -31,4 +31,4 @@ Competitive Programming Contests (up-to-date)
 | AtCoder | World Tour Finals 2022 Day2 | 2023년 9월 9일 13:00 | 2023년 9월 9일 17:00 |
 | AtCoder | World Tour Finals 2022 Day2（Open Contest） | 2023년 9월 9일 13:00 | 2023년 9월 9일 17:00 |
 
-Updated at 2023/06/26, 09:59:27
+Updated at 2023/06/26, 21:18:50
