@@ -8,7 +8,6 @@ Competitive Programming Contests (up-to-date)
 
  Contest ID | Title | Start Time | End Time |
 ---|---|---|---|
-| BOJ Open | 2022 연세대학교 미래캠퍼스 슬기로운 코딩생활 Open Contest | 2023년 6월 28일 14:20 | 2023년 6월 28일 16:50 |
 | CodeChef | Starters 96 (Rated till 5 Stars) | 2023년 6월 28일 23:30 | 2023년 6월 29일 01:30 |
 | Codeforces | Educational Codeforces Round 151 (Rated for Div. 2) | 2023년 6월 29일 23:35 | 2023년 6월 30일 01:35 |
 | Programmers | 23년 현대모비스 알고리즘 경진대회 | 2023년 6월 30일 14:00 | 2023년 7월 7일 20:00 |
@@ -34,4 +33,4 @@ Competitive Programming Contests (up-to-date)
 | AtCoder | World Tour Finals 2022 Day2 | 2023년 9월 9일 13:00 | 2023년 9월 9일 17:00 |
 | AtCoder | World Tour Finals 2022 Day2（Open Contest） | 2023년 9월 9일 13:00 | 2023년 9월 9일 17:00 |
 
-Updated at 2023/06/28, 09:59:08
+Updated at 2023/06/28, 21:19:36
