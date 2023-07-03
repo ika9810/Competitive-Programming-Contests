@@ -14,8 +14,8 @@ Competitive Programming Contests (up-to-date)
 ---|---|---|---|
 | CodeChef | Starters 97 | 2023년 7월 5일 23:30 | 2023년 7월 6일 01:30 |
 | BOJ Open | 2023 대구소프트웨어고 프로그래밍 경진대회 (DPC 2023) Open Contest | 2023년 7월 6일 19:00 | 2023년 7월 6일 22:30 |
-| Codeforces | Codeforces Round (Div. 2) | 2023년 7월 6일 23:35 | 2023년 7월 7일 01:35 |
-| Codeforces | Codeforces Round (Div. 3) | 2023년 7월 7일 23:35 | 2023년 7월 8일 01:50 |
+| Codeforces | Codeforces Round 882 (Div. 2) | 2023년 7월 6일 23:35 | 2023년 7월 7일 01:35 |
+| Codeforces | Codeforces Round 883 (Div. 3) | 2023년 7월 7일 23:35 | 2023년 7월 8일 01:50 |
 | AtCoder | Denso Create Programming Contest 2023 (AtCoder Beginner Contest 309) | 2023년 7월 8일 21:00 | 2023년 7월 8일 22:40 |
 | AtCoder | AtCoder Regular Contest 164 | 2023년 7월 9일 21:00 | 2023년 7월 9일 23:00 |
 | Codeforces | Codeforces Round (Div. 1 + Div. 2) | 2023년 7월 11일 23:35 | 2023년 7월 12일 01:35 |
@@ -32,4 +32,4 @@ Competitive Programming Contests (up-to-date)
 | AtCoder | World Tour Finals 2022 Day2 | 2023년 9월 9일 13:00 | 2023년 9월 9일 17:00 |
 | AtCoder | World Tour Finals 2022 Day2（Open Contest） | 2023년 9월 9일 13:00 | 2023년 9월 9일 17:00 |
 
-Updated at 2023/07/03, 09:58:14
+Updated at 2023/07/03, 21:22:27
