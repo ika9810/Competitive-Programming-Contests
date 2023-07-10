@@ -9,7 +9,7 @@ Competitive Programming Contests (up-to-date)
  Contest ID | Title | Start Time | End Time |
 ---|---|---|---|
 | Codeforces | Codeforces Round (Div. 1 + Div. 2) | 2023년 7월 11일 23:35 | 2023년 7월 12일 02:35 |
-| CodeChef | Starters 98 | 2023년 7월 12일 23:30 | 2023년 7월 13일 01:30 |
+| CodeChef | Starters 98 (Rated till 6 Stars) | 2023년 7월 12일 23:30 | 2023년 7월 13일 02:00 |
 | AtCoder | freee Programming Contest 2023（AtCoder Beginner Contest 310） | 2023년 7월 15일 21:00 | 2023년 7월 15일 22:40 |
 | Codeforces | Codeforces Round (Div. 2) | 2023년 7월 16일 23:35 | 2023년 7월 17일 01:35 |
 | CodeChef | Starters 99 | 2023년 7월 19일 23:30 | 2023년 7월 20일 01:30 |
@@ -22,6 +22,7 @@ Competitive Programming Contests (up-to-date)
 | AtCoder | AtCoder Beginner Contest 313 | 2023년 8월 5일 21:00 | 2023년 8월 5일 22:40 |
 | BOJ Open | solved.ac 그랜드 아레나 라운드 1 · Arena #1 | 2023년 8월 6일 14:00 | 2023년 8월 6일 17:00 |
 | BOJ Open | solved.ac 그랜드 아레나 라운드 2 · Arena #2 | 2023년 8월 13일 14:00 | 2023년 8월 13일 17:00 |
+| BOJ Open | 제2회 흐즈로컵 | 2023년 8월 18일 18:00 | 2023년 8월 21일 06:00 |
 | BOJ Open | 2023 브실컵 | 2023년 8월 26일 12:00 | 2023년 8월 26일 18:00 |
 | BOJ Open | 제1회 유틸컵 - Chapter 2 | 2023년 8월 26일 19:00 | 2023년 8월 27일 19:00 |
 | AtCoder | GAMEFREAK Programming Contest 2023 (AtCoder Beginner Contest 317) | 2023년 8월 26일 21:00 | 2023년 8월 26일 22:40 |
@@ -30,4 +31,4 @@ Competitive Programming Contests (up-to-date)
 | AtCoder | World Tour Finals 2022 Day2 | 2023년 9월 9일 13:00 | 2023년 9월 9일 17:00 |
 | AtCoder | World Tour Finals 2022 Day2（Open Contest） | 2023년 9월 9일 13:00 | 2023년 9월 9일 17:00 |
 
-Updated at 2023/07/10, 09:57:55
+Updated at 2023/07/10, 21:18:43
