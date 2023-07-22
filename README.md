@@ -8,8 +8,10 @@ Competitive Programming Contests (up-to-date)
 
  Contest ID | Title | Start Time | End Time |
 ---|---|---|---|
-| BOJ Open | UCPC 2023 본선 Open Contest | 2023년 7월 22일 11:00 | 2023년 7월 22일 16:00 |
 | AtCoder | Toyota Programming Contest 2023#4（AtCoder Beginner Contest 311） | 2023년 7월 22일 21:00 | 2023년 7월 22일 22:40 |
+
+ Contest ID | Title | Start Time | End Time |
+---|---|---|---|
 | Codeforces | Codeforces Round 887 (Div. 1) | 2023년 7월 23일 23:35 | 2023년 7월 24일 02:05 |
 | Codeforces | Codeforces Round 887 (Div. 2) | 2023년 7월 23일 23:35 | 2023년 7월 24일 02:05 |
 | Codeforces | Codeforces Round 888 (Div. 3) | 2023년 7월 25일 23:35 | 2023년 7월 26일 01:50 |
@@ -48,4 +50,4 @@ Competitive Programming Contests (up-to-date)
 | CodeChef | Starters 108 | 2023년 9월 20일 23:30 | 2023년 9월 21일 01:30 |
 | CodeChef | Starters 109 | 2023년 9월 27일 23:30 | 2023년 9월 28일 01:30 |
 
-Updated at 2023/07/22, 09:50:03
+Updated at 2023/07/22, 21:15:03
