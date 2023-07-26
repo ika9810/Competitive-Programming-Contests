@@ -35,6 +35,7 @@ Competitive Programming Contests (up-to-date)
 | BOJ Open | 2023 브실컵 | 2023년 8월 26일 12:00 | 2023년 8월 26일 18:00 |
 | BOJ Open | 제1회 유틸컵 - Chapter 2 | 2023년 8월 26일 19:00 | 2023년 8월 27일 19:00 |
 | AtCoder | GAMEFREAK Programming Contest 2023 (AtCoder Beginner Contest 317) | 2023년 8월 26일 21:00 | 2023년 8월 26일 22:40 |
+| AtCoder | TOYOTA Programming Contest 2023 Summer final | 2023년 8월 27일 10:00 | 2023년 8월 27일 13:30 |
 | CodeChef | Starters 105 | 2023년 8월 30일 23:30 | 2023년 8월 31일 01:30 |
 | BOJ Open | 제1회 임스의 메이플컵 | 2023년 9월 2일 19:00 | 2023년 9월 2일 22:00 |
 | CodeChef | Starters 106 | 2023년 9월 6일 23:30 | 2023년 9월 7일 01:30 |
@@ -46,4 +47,4 @@ Competitive Programming Contests (up-to-date)
 | CodeChef | Starters 108 | 2023년 9월 20일 23:30 | 2023년 9월 21일 01:30 |
 | CodeChef | Starters 109 | 2023년 9월 27일 23:30 | 2023년 9월 28일 01:30 |
 
-Updated at 2023/07/26, 09:50:46
+Updated at 2023/07/26, 21:15:53
