@@ -19,7 +19,6 @@ Competitive Programming Contests (up-to-date)
 | BOJ Open | solved.ac 그랜드 아레나 라운드 2 · Arena #2 | 2023년 8월 13일 14:00 | 2023년 8월 13일 17:00 |
 | AtCoder | AtCoder Grand Contest 064 | 2023년 8월 13일 21:00 | 2023년 8월 14일 00:00 |
 | BOJ Open | 제3회 고려대학교 MatKor Cup : 2023 Summer Open Contest - Phase 1 | 2023년 8월 15일 16:00 | 2023년 8월 15일 20:00 |
-| CodeChef | Starters 100 (Date to be decided) | 2023년 8월 16일 23:30 | 2023년 8월 17일 01:30 |
 | CodeChef | Starters 103 | 2023년 8월 16일 23:30 | 2023년 8월 17일 01:30 |
 | BOJ Open | 제2회 흐즈로컵 | 2023년 8월 18일 18:00 | 2023년 8월 21일 06:00 |
 | BOJ Open | 2023 KSA Automata Summer Contest | 2023년 8월 18일 19:30 | 2023년 8월 19일 00:00 |
@@ -30,6 +29,7 @@ Competitive Programming Contests (up-to-date)
 | BOJ Open | 제1회 유틸컵 - Chapter 2 | 2023년 8월 26일 19:00 | 2023년 8월 27일 19:00 |
 | AtCoder | GAMEFREAK Programming Contest 2023 (AtCoder Beginner Contest 317) | 2023년 8월 26일 21:00 | 2023년 8월 26일 22:40 |
 | AtCoder | TOYOTA Programming Contest 2023 Summer final | 2023년 8월 27일 10:00 | 2023년 8월 27일 13:30 |
+| CodeChef | Starters 100 (Date to be decided) | 2023년 8월 30일 23:30 | 2023년 8월 31일 01:30 |
 | CodeChef | Starters 105 | 2023년 8월 30일 23:30 | 2023년 8월 31일 01:30 |
 | BOJ Open | 제1회 임스의 메이플컵 | 2023년 9월 2일 19:00 | 2023년 9월 2일 22:00 |
 | CodeChef | Starters 106 | 2023년 9월 6일 23:30 | 2023년 9월 7일 01:30 |
@@ -41,4 +41,4 @@ Competitive Programming Contests (up-to-date)
 | CodeChef | Starters 108 | 2023년 9월 20일 23:30 | 2023년 9월 21일 01:30 |
 | CodeChef | Starters 109 | 2023년 9월 27일 23:30 | 2023년 9월 28일 01:30 |
 
-Updated at 2023/08/01, 09:51:58
+Updated at 2023/08/01, 21:16:22
