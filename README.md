@@ -34,6 +34,7 @@ Competitive Programming Contests (up-to-date)
 | CodeChef | Starters 105 | 2023년 8월 30일 23:30 | 2023년 8월 31일 01:30 |
 | BOJ Open | 제1회 임스의 메이플컵 | 2023년 9월 2일 19:00 | 2023년 9월 2일 22:00 |
 | AtCoder | 10th Asprova Programming Contest（AtCoder Heuristic Contest 023） | 2023년 9월 3일 10:00 | 2023년 9월 10일 20:00 |
+| BOJ Open | 2023 전남대학교 PIMM 알고리즘 파티 | 2023년 9월 3일 15:00 | 2023년 9월 3일 18:00 |
 | CodeChef | Starters 106 | 2023년 9월 6일 23:30 | 2023년 9월 7일 01:30 |
 | AtCoder | World Tour Finals 2022 Day1 | 2023년 9월 8일 13:00 | 2023년 9월 8일 17:00 |
 | AtCoder | World Tour Finals 2022 Day1（Open Contest） | 2023년 9월 8일 13:00 | 2023년 9월 8일 17:00 |
@@ -43,4 +44,4 @@ Competitive Programming Contests (up-to-date)
 | CodeChef | Starters 108 | 2023년 9월 20일 23:30 | 2023년 9월 21일 01:30 |
 | CodeChef | Starters 109 | 2023년 9월 27일 23:30 | 2023년 9월 28일 01:30 |
 
-Updated at 2023/08/04, 09:46:52
+Updated at 2023/08/04, 21:16:02
