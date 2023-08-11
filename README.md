@@ -9,6 +9,9 @@ Competitive Programming Contests (up-to-date)
  Contest ID | Title | Start Time | End Time |
 ---|---|---|---|
 | AtCoder | RECRUIT Nihonbashi Half Marathon 2023 Summer（AtCoder Heuristic Contest 022） | 2023년 8월 11일 12:00 | 2023년 8월 20일 19:00 |
+
+ Contest ID | Title | Start Time | End Time |
+---|---|---|---|
 | BOJ Open | 제1회 유틸컵 - Chapter 1 | 2023년 8월 12일 14:00 | 2023년 8월 12일 19:00 |
 | AtCoder | AtCoder Beginner Contest 314 | 2023년 8월 12일 21:00 | 2023년 8월 12일 22:40 |
 | Codeforces | Codeforces Round 892 (Div. 2) | 2023년 8월 12일 23:35 | 2023년 8월 13일 01:35 |
@@ -49,4 +52,4 @@ Competitive Programming Contests (up-to-date)
 | CodeChef | Starters 108 | 2023년 9월 20일 23:30 | 2023년 9월 21일 01:30 |
 | CodeChef | Starters 109 | 2023년 9월 27일 23:30 | 2023년 9월 28일 01:30 |
 
-Updated at 2023/08/11, 09:37:04
+Updated at 2023/08/11, 21:14:52
