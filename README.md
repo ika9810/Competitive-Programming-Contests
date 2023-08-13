@@ -9,12 +9,10 @@ Competitive Programming Contests (up-to-date)
  Contest ID | Title | Start Time | End Time |
 ---|---|---|---|
 | AtCoder | RECRUIT Nihonbashi Half Marathon 2023 Summer（AtCoder Heuristic Contest 022） | 2023년 8월 11일 12:00 | 2023년 8월 20일 19:00 |
+| AtCoder | AtCoder Grand Contest 064 | 2023년 8월 13일 21:00 | 2023년 8월 14일 00:00 |
 
  Contest ID | Title | Start Time | End Time |
 ---|---|---|---|
-| BOJ Open | solved.ac Grand Arena #2 · Arena #2 | 2023년 8월 13일 14:00 | 2023년 8월 13일 17:00 |
-| BOJ Open | 제 1회 하이콘 Open Contest | 2023년 8월 13일 18:00 | 2023년 8월 13일 20:00 |
-| AtCoder | AtCoder Grand Contest 064 | 2023년 8월 13일 21:00 | 2023년 8월 14일 00:00 |
 | BOJ Open | 제3회 고려대학교 MatKor Cup : 2023 Summer Open Contest - Phase 1 · Arena #3 | 2023년 8월 15일 16:00 | 2023년 8월 15일 20:00 |
 | Codeforces | Codeforces Round 893 (Div. 2) | 2023년 8월 15일 22:35 | 2023년 8월 16일 00:35 |
 | CodeChef | Starters 103 | 2023년 8월 16일 23:30 | 2023년 8월 17일 01:30 |
@@ -30,7 +28,7 @@ Competitive Programming Contests (up-to-date)
 | BOJ Open | 제1회 유틸컵 - Chapter 2 | 2023년 8월 26일 19:00 | 2023년 8월 27일 19:00 |
 | AtCoder | GAMEFREAK Programming Contest 2023 (AtCoder Beginner Contest 317) | 2023년 8월 26일 21:00 | 2023년 8월 26일 22:40 |
 | AtCoder | TOYOTA Programming Contest 2023 Summer final | 2023년 8월 27일 10:00 | 2023년 8월 27일 13:30 |
-| BOJ Open | 2023 신촌지역 대학생 프로그래밍 대회 동아리 연합 여름 대회 (SUAPC 2023 Summer) Open Contest | 2023년 8월 27일 12:00 | 2023년 8월 27일 17:00 |
+| BOJ Open | 2023 신촌지역 대학생 프로그래밍 대회 동아리 연합 여름 대회(SUAPC 2023 Summer) Open · Arena #6 | 2023년 8월 27일 12:00 | 2023년 8월 27일 17:00 |
 | BOJ Open | 월간 향유회 2023. 08. | 2023년 8월 27일 19:00 | 2023년 8월 27일 21:00 |
 | CodeChef | Starters 100 (Date to be decided) | 2023년 8월 30일 23:30 | 2023년 8월 31일 01:30 |
 | CodeChef | Starters 105 | 2023년 8월 30일 23:30 | 2023년 8월 31일 01:30 |
@@ -50,4 +48,4 @@ Competitive Programming Contests (up-to-date)
 | CodeChef | Starters 108 | 2023년 9월 20일 23:30 | 2023년 9월 21일 01:30 |
 | CodeChef | Starters 109 | 2023년 9월 27일 23:30 | 2023년 9월 28일 01:30 |
 
-Updated at 2023/08/13, 09:39:38
+Updated at 2023/08/13, 21:13:35
