@@ -27,7 +27,7 @@ Competitive Programming Contests (up-to-date)
 | AtCoder | TOYOTA Programming Contest 2023 Summer final | 2023년 8월 27일 10:00 | 2023년 8월 27일 13:30 |
 | BOJ Open | 2023 신촌지역 대학생 프로그래밍 대회 동아리 연합 여름 대회(SUAPC 2023 Summer) Open · Arena #5 | 2023년 8월 27일 12:00 | 2023년 8월 27일 17:00 |
 | BOJ Open | 월간 향유회 2023. 08. | 2023년 8월 27일 19:00 | 2023년 8월 27일 21:00 |
-| CodeChef | Starters 100 (Date to be decided) | 2023년 8월 30일 23:30 | 2023년 8월 31일 01:30 |
+| CodeChef | Starters 100 (Unrated) | 2023년 8월 30일 13:30 | 2023년 8월 31일 01:30 |
 | CodeChef | Starters 105 | 2023년 8월 30일 23:30 | 2023년 8월 31일 01:30 |
 | Codeforces | Educational Codeforces Round 154 (Rated for Div. 2) | 2023년 8월 31일 23:35 | 2023년 9월 1일 01:35 |
 | BOJ Open | 제1회 임스의 메이플컵 | 2023년 9월 2일 19:00 | 2023년 9월 2일 22:00 |
@@ -46,4 +46,4 @@ Competitive Programming Contests (up-to-date)
 | CodeChef | Starters 108 | 2023년 9월 20일 23:30 | 2023년 9월 21일 01:30 |
 | CodeChef | Starters 109 | 2023년 9월 27일 23:30 | 2023년 9월 28일 01:30 |
 
-Updated at 2023/08/16, 09:37:32
+Updated at 2023/08/16, 21:15:03
