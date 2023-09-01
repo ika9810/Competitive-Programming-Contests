@@ -20,10 +20,10 @@ Competitive Programming Contests (up-to-date)
 | CodeChef | September Short 2023 (Unrated) | 2023년 9월 6일 23:30 | 2023년 9월 7일 01:30 |
 | CodeChef | Starters 106 | 2023년 9월 6일 23:30 | 2023년 9월 7일 01:30 |
 | Codeforces | Codeforces Round 895 (Div. 3) | 2023년 9월 7일 23:35 | 2023년 9월 8일 01:50 |
-| AtCoder | World Tour Finals 2022 Day1 | 2023년 9월 8일 13:00 | 2023년 9월 8일 17:00 |
-| AtCoder | World Tour Finals 2022 Day1（Open Contest） | 2023년 9월 8일 13:00 | 2023년 9월 8일 17:00 |
-| AtCoder | World Tour Finals 2022 Day2 | 2023년 9월 9일 13:00 | 2023년 9월 9일 17:00 |
-| AtCoder | World Tour Finals 2022 Day2（Open Contest） | 2023년 9월 9일 13:00 | 2023년 9월 9일 17:00 |
+| AtCoder | World Tour Finals 2022 Day1 | 2023년 9월 8일 13:00 | 2023년 9월 8일 18:00 |
+| AtCoder | World Tour Finals 2022 Day1（Open Contest） | 2023년 9월 8일 13:00 | 2023년 9월 8일 18:00 |
+| AtCoder | World Tour Finals 2022 Day2 | 2023년 9월 9일 13:00 | 2023년 9월 9일 18:00 |
+| AtCoder | World Tour Finals 2022 Day2（Open Contest） | 2023년 9월 9일 13:00 | 2023년 9월 9일 18:00 |
 | BOJ Open | 제1회 임스의 메이플컵 (The 1st lms0806's Maple Cup) · Arena #6 | 2023년 9월 9일 14:00 | 2023년 9월 9일 17:00 |
 | BOJ Open | 단대소프트고 2023 알고리즘 대회 | 2023년 9월 9일 18:00 | 2023년 9월 9일 22:00 |
 | AtCoder | AtCoder Beginner Contest 319 | 2023년 9월 9일 21:00 | 2023년 9월 9일 22:40 |
@@ -42,7 +42,8 @@ Competitive Programming Contests (up-to-date)
 | Codeforces | Codeforces Round (Div. 2) | 2023년 9월 18일 23:35 | 2023년 9월 19일 01:35 |
 | CodeChef | Starters 108 | 2023년 9월 20일 23:30 | 2023년 9월 21일 01:30 |
 | AtCoder | SuntoryProgrammingContest2023（AtCoder Beginner Contest 321） | 2023년 9월 23일 21:00 | 2023년 9월 23일 22:40 |
+| AtCoder | Marubeni Programming Contest 2023 (AtCoder Heuristic Contest 024) | 2023년 9월 24일 15:00 | 2023년 9월 24일 19:00 |
 | CodeChef | Starters 109 | 2023년 9월 27일 23:30 | 2023년 9월 28일 01:30 |
 | BOJ Open | 제2회 보라매컵 본선 Open Contest | 2023년 10월 7일 18:00 | 2023년 10월 7일 21:00 |
 
-Updated at 2023/09/01, 09:41:25
+Updated at 2023/09/01, 21:15:31
