@@ -16,15 +16,15 @@ Competitive Programming Contests (up-to-date)
 | CodeChef | September Short 2023 (Unrated) | 2023년 9월 6일 23:30 | 2023년 9월 7일 01:30 |
 | CodeChef | Starters 106 | 2023년 9월 6일 23:30 | 2023년 9월 7일 01:30 |
 | Codeforces | Codeforces Round 895 (Div. 3) | 2023년 9월 7일 23:35 | 2023년 9월 8일 01:50 |
-| AtCoder | World Tour Finals 2023 Day1 | 2023년 9월 8일 13:00 | 2023년 9월 8일 18:00 |
-| AtCoder | World Tour Finals 2023 Day1（Open Contest） | 2023년 9월 8일 13:00 | 2023년 9월 8일 18:00 |
-| AtCoder | World Tour Finals 2023 Day2 | 2023년 9월 9일 13:00 | 2023년 9월 9일 18:00 |
-| AtCoder | World Tour Finals 2023 Day2（Open Contest） | 2023년 9월 9일 13:00 | 2023년 9월 9일 18:00 |
-| BOJ Open | 제1회 임스의 메이플컵 (The 1st lms0806's Maple Cup) · Arena #6 | 2023년 9월 9일 14:00 | 2023년 9월 9일 17:00 |
+| AtCoder | World Tour Finals 2022 Day1 | 2023년 9월 8일 13:00 | 2023년 9월 8일 18:00 |
+| AtCoder | World Tour Finals 2022 Day1（Open Contest） | 2023년 9월 8일 13:00 | 2023년 9월 8일 18:00 |
+| BOJ Open | 제1회 임스의 메이플컵 (The 1st lms0806's Maple Cup) · Arena #6 | 2023년 9월 8일 20:00 | 2023년 9월 8일 23:00 |
+| AtCoder | World Tour Finals 2022 Day2 | 2023년 9월 9일 13:00 | 2023년 9월 9일 18:00 |
+| AtCoder | World Tour Finals 2022 Day2（Open Contest） | 2023년 9월 9일 13:00 | 2023년 9월 9일 18:00 |
+| BOJ Open | 제3회 숙명여자대학교 프로그래밍 경진대회 (SMUPC) Open Contest | 2023년 9월 9일 14:00 | 2023년 9월 9일 17:00 |
 | BOJ Open | 단대소프트고 2023 알고리즘 대회 | 2023년 9월 9일 18:00 | 2023년 9월 9일 22:00 |
 | AtCoder | AtCoder Beginner Contest 319 | 2023년 9월 9일 21:00 | 2023년 9월 9일 22:40 |
 | BOJ Open | 2023 브실컵 | 2023년 9월 10일 12:00 | 2023년 9월 10일 18:00 |
-| BOJ Open | 제3회 숙명여자대학교 프로그래밍 경진대회 (SMUPC) Open Contest | 2023년 9월 10일 14:00 | 2023년 9월 10일 17:00 |
 | BOJ Open | 제2회 보라매컵 예선 Open Contest | 2023년 9월 10일 18:00 | 2023년 9월 10일 21:00 |
 | Codeforces | Codeforces Round (Div. 1) | 2023년 9월 10일 23:05 | 2023년 9월 11일 01:35 |
 | Codeforces | Codeforces Round (Div. 2) | 2023년 9월 10일 23:05 | 2023년 9월 11일 01:35 |
@@ -42,4 +42,4 @@ Competitive Programming Contests (up-to-date)
 | CodeChef | Starters 109 | 2023년 9월 27일 23:30 | 2023년 9월 28일 01:30 |
 | BOJ Open | 제2회 보라매컵 본선 Open Contest | 2023년 10월 7일 18:00 | 2023년 10월 7일 21:00 |
 
-Updated at 2023/09/04, 09:39:25
+Updated at 2023/09/04, 21:16:09
