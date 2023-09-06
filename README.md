@@ -46,4 +46,4 @@ Competitive Programming Contests (up-to-date)
 | CodeChef | Starters 109 | 2023년 9월 27일 23:30 | 2023년 9월 28일 01:30 |
 | BOJ Open | 제2회 보라매컵 본선 Open Contest | 2023년 10월 7일 18:00 | 2023년 10월 7일 21:00 |
 
-Updated at 2023/09/06, 09:38:36
+Updated at 2023/09/06, 21:16:16
