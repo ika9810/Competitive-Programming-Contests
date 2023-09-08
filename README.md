@@ -10,12 +10,10 @@ Competitive Programming Contests (up-to-date)
 ---|---|---|---|
 | Programmers | 2023 Dev-Matching: 웹 FE,BE / APP 개발자(하반기)-1 | 2023년 8월 24일 10:00 | 2023년 9월 10일 14:00 |
 | AtCoder | 10th Asprova Programming Contest（AtCoder Heuristic Contest 023） | 2023년 9월 3일 10:00 | 2023년 9월 10일 20:00 |
+| BOJ Open | 제1회 임스의 메이플컵 (The 1st lms0806's Maple Cup) · Arena #6 | 2023년 9월 8일 20:00 | 2023년 9월 8일 23:00 |
 
  Contest ID | Title | Start Time | End Time |
 ---|---|---|---|
-| AtCoder | World Tour Finals 2022 Day1 | 2023년 9월 8일 13:00 | 2023년 9월 8일 18:00 |
-| AtCoder | World Tour Finals 2022 Day1（Open Contest） | 2023년 9월 8일 13:00 | 2023년 9월 8일 18:00 |
-| BOJ Open | 제1회 임스의 메이플컵 (The 1st lms0806's Maple Cup) · Arena #6 | 2023년 9월 8일 20:00 | 2023년 9월 8일 23:00 |
 | AtCoder | World Tour Finals 2022 Day2 | 2023년 9월 9일 13:00 | 2023년 9월 9일 18:00 |
 | AtCoder | World Tour Finals 2022 Day2（Open Contest） | 2023년 9월 9일 13:00 | 2023년 9월 9일 18:00 |
 | BOJ Open | 제3회 숙명여자대학교 프로그래밍 경진대회 (SMUPC) Open Contest | 2023년 9월 9일 14:00 | 2023년 9월 9일 17:00 |
@@ -43,4 +41,4 @@ Competitive Programming Contests (up-to-date)
 | CodeChef | Starters 109 | 2023년 9월 27일 23:30 | 2023년 9월 28일 01:30 |
 | BOJ Open | 제2회 보라매컵 본선 Open Contest | 2023년 10월 7일 18:00 | 2023년 10월 7일 21:00 |
 
-Updated at 2023/09/08, 09:38:21
+Updated at 2023/09/08, 21:15:21
