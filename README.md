@@ -10,23 +10,20 @@ Competitive Programming Contests (up-to-date)
 ---|---|---|---|
 | Programmers | 2023 Dev-Matching: 웹 FE,BE / APP 개발자(하반기)-1 | 2023년 8월 24일 10:00 | 2023년 9월 10일 14:00 |
 | AtCoder | 10th Asprova Programming Contest（AtCoder Heuristic Contest 023） | 2023년 9월 3일 10:00 | 2023년 9월 10일 20:00 |
+| BOJ Open | 단대소프트고 2023 알고리즘 대회 | 2023년 9월 9일 18:00 | 2023년 9월 9일 22:00 |
+| AtCoder | AtCoder Beginner Contest 319 | 2023년 9월 9일 21:00 | 2023년 9월 9일 22:40 |
 
  Contest ID | Title | Start Time | End Time |
 ---|---|---|---|
-| AtCoder | World Tour Finals 2022 Day2 | 2023년 9월 9일 13:00 | 2023년 9월 9일 18:00 |
-| AtCoder | World Tour Finals 2022 Day2（Open Contest） | 2023년 9월 9일 13:00 | 2023년 9월 9일 18:00 |
-| BOJ Open | 제3회 숙명여자대학교 프로그래밍 경진대회 (SMUPC) Open Contest | 2023년 9월 9일 14:00 | 2023년 9월 9일 17:00 |
-| BOJ Open | 단대소프트고 2023 알고리즘 대회 | 2023년 9월 9일 18:00 | 2023년 9월 9일 22:00 |
-| AtCoder | AtCoder Beginner Contest 319 | 2023년 9월 9일 21:00 | 2023년 9월 9일 22:40 |
 | BOJ Open | 2023 브실컵 | 2023년 9월 10일 12:00 | 2023년 9월 10일 18:00 |
-| BOJ Open | 제2회 보라매컵 예선 Open Contest | 2023년 9월 10일 18:00 | 2023년 9월 10일 21:00 |
+| BOJ Open | 제2회 보라매컵 예선 Open Contest | 2023년 9월 10일 18:10 | 2023년 9월 10일 21:10 |
 | Codeforces | Codeforces Round 896 (Div. 1) | 2023년 9월 10일 23:05 | 2023년 9월 11일 01:35 |
 | Codeforces | Codeforces Round 896 (Div. 2) | 2023년 9월 10일 23:05 | 2023년 9월 11일 01:35 |
 | Codeforces | Codeforces Round 897 (Div. 2) | 2023년 9월 11일 23:35 | 2023년 9월 12일 01:35 |
 | CodeChef | Starters 100 | 2023년 9월 13일 23:30 | 2023년 9월 14일 01:30 |
 | CodeChef | Starters 107 | 2023년 9월 13일 23:30 | 2023년 9월 14일 01:30 |
-| BOJ Open | 2023 HPEC(Hanyang Evaluation Contest) - Beginner Division - Open | 2023년 9월 15일 19:00 | 2023년 9월 15일 21:00 |
-| BOJ Open | 2023 HPEC(Hanyang Evaluation Contest) - Intermediate Division - Open | 2023년 9월 15일 19:00 | 2023년 9월 15일 21:00 |
+| BOJ Open | 2023 HPEC(Hanyang Programming Evaluation Contest) - Beginner Open | 2023년 9월 15일 19:00 | 2023년 9월 15일 21:00 |
+| BOJ Open | 2023 HPEC(Hanyang Programming Evaluation Contest) - Intermediate Open | 2023년 9월 15일 19:00 | 2023년 9월 15일 21:00 |
 | BOJ Open | 2023 국민대학교 & 중앙대학교 프로그래밍 경진대회 Open Contest · Arena #7 | 2023년 9월 16일 14:00 | 2023년 9월 16일 17:00 |
 | BOJ Open | 제1회 유틸컵 - Chapter 2 | 2023년 9월 16일 18:00 | 2023년 9월 17일 18:00 |
 | AtCoder | Toyota Programming Contest 2023#5（AtCoder Beginner Contest 320） | 2023년 9월 16일 21:00 | 2023년 9월 16일 22:40 |
@@ -43,4 +40,4 @@ Competitive Programming Contests (up-to-date)
 | CodeChef | Starters 109 | 2023년 9월 27일 23:30 | 2023년 9월 28일 01:30 |
 | BOJ Open | 제2회 보라매컵 본선 Open Contest | 2023년 10월 7일 18:00 | 2023년 10월 7일 21:00 |
 
-Updated at 2023/09/09, 09:37:30
+Updated at 2023/09/09, 21:14:04
