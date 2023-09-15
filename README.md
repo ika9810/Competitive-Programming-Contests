@@ -8,8 +8,6 @@ Competitive Programming Contests (up-to-date)
 
  Contest ID | Title | Start Time | End Time |
 ---|---|---|---|
-| BOJ Open | 2023 HPEC(Hanyang Programming Evaluation Contest) - Beginner Open | 2023년 9월 15일 19:00 | 2023년 9월 15일 21:00 |
-| BOJ Open | 2023 HPEC(Hanyang Programming Evaluation Contest) - Intermediate Open | 2023년 9월 15일 19:00 | 2023년 9월 15일 21:00 |
 | BOJ Open | 2023 국민대학교 & 중앙대학교 프로그래밍 경진대회 Open Contest · Arena #7 | 2023년 9월 16일 14:00 | 2023년 9월 16일 17:00 |
 | BOJ Open | 제1회 유틸컵 - Chapter 2 | 2023년 9월 16일 18:00 | 2023년 9월 17일 18:00 |
 | AtCoder | Toyota Programming Contest 2023#5（AtCoder Beginner Contest 320） | 2023년 9월 16일 21:00 | 2023년 9월 16일 22:40 |
@@ -35,6 +33,8 @@ Competitive Programming Contests (up-to-date)
 | Codeforces | Codeforces Round (Div. 1) | 2023년 10월 8일 18:05 | 2023년 10월 8일 20:35 |
 | Codeforces | Codeforces Round (Div. 2) | 2023년 10월 8일 18:05 | 2023년 10월 8일 20:35 |
 | AtCoder | AtCoder Regular Contest 166 | 2023년 10월 8일 21:00 | 2023년 10월 8일 23:00 |
+| AtCoder | Japan Registry Services (JPRS) Programming Contest 2023 (AtCoder Beginner Contest 324) | 2023년 10월 14일 21:00 | 2023년 10월 14일 22:40 |
 | AtCoder | AtCoder Regular Contest 167 | 2023년 10월 15일 21:00 | 2023년 10월 15일 23:00 |
+| AtCoder | Panasonic Programming Contest 2023（AtCoder Beginner Contest 326） | 2023년 10월 28일 21:00 | 2023년 10월 28일 22:40 |
 
-Updated at 2023/09/15, 09:39:19
+Updated at 2023/09/15, 21:15:55
