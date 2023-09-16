@@ -8,9 +8,11 @@ Competitive Programming Contests (up-to-date)
 
  Contest ID | Title | Start Time | End Time |
 ---|---|---|---|
-| BOJ Open | 2023 국민대학교 & 중앙대학교 프로그래밍 경진대회 Open Contest · Arena #7 | 2023년 9월 16일 14:00 | 2023년 9월 16일 17:00 |
 | BOJ Open | 제1회 유틸컵 - Chapter 2 | 2023년 9월 16일 18:00 | 2023년 9월 17일 18:00 |
 | AtCoder | Toyota Programming Contest 2023#5（AtCoder Beginner Contest 320） | 2023년 9월 16일 21:00 | 2023년 9월 16일 22:40 |
+
+ Contest ID | Title | Start Time | End Time |
+---|---|---|---|
 | BOJ Open | 2023 충남대학교 SW-IT Contest Open - Division 1 · Arena #8 | 2023년 9월 17일 19:00 | 2023년 9월 17일 22:00 |
 | BOJ Open | 2023 충남대학교 SW-IT Contest Open - Division 2 | 2023년 9월 17일 19:00 | 2023년 9월 17일 22:00 |
 | AtCoder | AtCoder Regular Contest 165 | 2023년 9월 17일 21:00 | 2023년 9월 17일 23:00 |
@@ -25,6 +27,7 @@ Competitive Programming Contests (up-to-date)
 | BOJ Open | 2023 GSHS CS Seminar | 2023년 9월 24일 13:00 | 2023년 9월 24일 18:00 |
 | AtCoder | Marubeni Programming Contest 2023 (AtCoder Heuristic Contest 024) | 2023년 9월 24일 15:00 | 2023년 9월 24일 19:00 |
 | BOJ Open | 월간 향유회 2023. 09. | 2023년 9월 24일 19:00 | 2023년 9월 24일 21:00 |
+| Codeforces | Educational Codeforces Round 155 (Rated for Div. 2) | 2023년 9월 24일 23:35 | 2023년 9월 25일 01:35 |
 | Codeforces | Codeforces Round (Div. 3) | 2023년 9월 26일 23:35 | 2023년 9월 27일 01:50 |
 | CodeChef | Starters 109 | 2023년 9월 27일 23:30 | 2023년 9월 28일 01:30 |
 | Codeforces | Codeforces Round (Div. 1) | 2023년 9월 30일 23:35 | 2023년 10월 1일 02:05 |
@@ -37,4 +40,4 @@ Competitive Programming Contests (up-to-date)
 | AtCoder | AtCoder Regular Contest 167 | 2023년 10월 15일 21:00 | 2023년 10월 15일 23:00 |
 | AtCoder | Panasonic Programming Contest 2023（AtCoder Beginner Contest 326） | 2023년 10월 28일 21:00 | 2023년 10월 28일 22:40 |
 
-Updated at 2023/09/16, 09:37:53
+Updated at 2023/09/16, 21:13:59
