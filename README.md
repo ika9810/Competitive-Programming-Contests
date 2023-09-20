@@ -8,7 +8,7 @@ Competitive Programming Contests (up-to-date)
 
  Contest ID | Title | Start Time | End Time |
 ---|---|---|---|
-| CodeChef | Starters 101 | 2023년 9월 20일 23:30 | 2023년 9월 21일 01:30 |
+| CodeChef | Starters 101 (Rated for Divs 2, 3 & 4) | 2023년 9월 20일 23:30 | 2023년 9월 21일 01:30 |
 | CodeChef | Starters 108 | 2023년 9월 20일 23:30 | 2023년 9월 21일 01:30 |
 | Codeforces | Codeforces Round 898 (Div. 4) | 2023년 9월 21일 23:35 | 2023년 9월 22일 02:05 |
 | BOJ Open | Zero One Algorithm Contest 2023 Open Contest | 2023년 9월 22일 17:30 | 2023년 9월 22일 20:30 |
@@ -33,4 +33,4 @@ Competitive Programming Contests (up-to-date)
 | Codeforces | Codeforces Round (Div. 3) | 2023년 10월 22일 18:35 | 2023년 10월 22일 20:50 |
 | AtCoder | Panasonic Programming Contest 2023（AtCoder Beginner Contest 326） | 2023년 10월 28일 21:00 | 2023년 10월 28일 22:40 |
 
-Updated at 2023/09/20, 09:39:01
+Updated at 2023/09/20, 21:16:16
