@@ -31,4 +31,4 @@ Competitive Programming Contests (up-to-date)
 | Codeforces | Codeforces Round (Div. 3) | 2023년 10월 22일 18:35 | 2023년 10월 22일 20:50 |
 | AtCoder | Panasonic Programming Contest 2023（AtCoder Beginner Contest 326） | 2023년 10월 28일 21:00 | 2023년 10월 28일 22:40 |
 
-Updated at 2023/09/21, 09:39:02
+Updated at 2023/09/21, 21:16:22
