@@ -8,9 +8,6 @@ Competitive Programming Contests (up-to-date)
 
  Contest ID | Title | Start Time | End Time |
 ---|---|---|---|
-| BOJ Open | 2023 GSHS CS Seminar | 2023년 9월 24일 13:00 | 2023년 9월 24일 18:00 |
-| AtCoder | Marubeni Programming Contest 2023 (AtCoder Heuristic Contest 024) | 2023년 9월 24일 15:00 | 2023년 9월 24일 19:00 |
-| BOJ Open | 월간 향유회 2023. 09. | 2023년 9월 24일 19:00 | 2023년 9월 24일 21:00 |
 | BOJ Open | 2023 서울대학교 프로그래밍 경시대회 Open Contest - Division 2 | 2023년 9월 24일 21:30 | 2023년 9월 25일 00:30 |
 | BOJ Open | 2023 서울대학교 프로그래밍 경시대회 Open Contest - Division 1 | 2023년 9월 24일 21:30 | 2023년 9월 25일 01:30 |
 | Codeforces | Educational Codeforces Round 155 (Rated for Div. 2) | 2023년 9월 24일 23:35 | 2023년 9월 25일 01:35 |
@@ -37,4 +34,4 @@ Competitive Programming Contests (up-to-date)
 | CodeChef | Starters 105 | 2023년 10월 25일 23:30 | 2023년 10월 26일 01:30 |
 | AtCoder | Panasonic Programming Contest 2023（AtCoder Beginner Contest 326） | 2023년 10월 28일 21:00 | 2023년 10월 28일 22:40 |
 
-Updated at 2023/09/24, 09:41:30
+Updated at 2023/09/24, 21:14:07
