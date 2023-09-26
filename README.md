@@ -30,4 +30,4 @@ Competitive Programming Contests (up-to-date)
 | CodeChef | Starters 105 | 2023년 10월 25일 23:30 | 2023년 10월 26일 01:30 |
 | AtCoder | Panasonic Programming Contest 2023（AtCoder Beginner Contest 326） | 2023년 10월 28일 21:00 | 2023년 10월 28일 22:40 |
 
-Updated at 2023/09/26, 09:39:42
+Updated at 2023/09/26, 21:16:20
