@@ -8,7 +8,7 @@ Competitive Programming Contests (up-to-date)
 
  Contest ID | Title | Start Time | End Time |
 ---|---|---|---|
-| CodeChef | Starters 102 | 2023년 9월 27일 23:30 | 2023년 9월 28일 01:30 |
+| CodeChef | Starters 102 (Rated till 6 Stars) | 2023년 9월 27일 23:30 | 2023년 9월 28일 01:30 |
 | CodeChef | Starters 109 | 2023년 9월 27일 23:30 | 2023년 9월 28일 01:30 |
 | AtCoder | AtCoder Beginner Contest 322 | 2023년 9월 30일 21:00 | 2023년 9월 30일 22:40 |
 | Codeforces | Codeforces Round 901 (Div. 1) | 2023년 9월 30일 23:35 | 2023년 10월 1일 02:35 |
@@ -25,8 +25,9 @@ Competitive Programming Contests (up-to-date)
 | AtCoder | Japan Registry Services (JPRS) Programming Contest 2023 (AtCoder Beginner Contest 324) | 2023년 10월 14일 21:00 | 2023년 10월 14일 22:40 |
 | AtCoder | AtCoder Regular Contest 167 | 2023년 10월 15일 21:00 | 2023년 10월 15일 23:00 |
 | CodeChef | Starters 104 | 2023년 10월 18일 23:30 | 2023년 10월 19일 01:30 |
+| AtCoder | KEYENCE Programming Contest 2023 Autumn（AtCoder Beginner Contest 325） | 2023년 10월 21일 21:00 | 2023년 10월 21일 22:40 |
 | Codeforces | Codeforces Round (Div. 3) | 2023년 10월 22일 21:05 | 2023년 10월 22일 23:20 |
 | CodeChef | Starters 105 | 2023년 10월 25일 23:30 | 2023년 10월 26일 01:30 |
 | AtCoder | Panasonic Programming Contest 2023（AtCoder Beginner Contest 326） | 2023년 10월 28일 21:00 | 2023년 10월 28일 22:40 |
 
-Updated at 2023/09/27, 09:39:59
+Updated at 2023/09/27, 21:16:20
