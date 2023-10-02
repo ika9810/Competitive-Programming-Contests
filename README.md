@@ -11,6 +11,7 @@ Competitive Programming Contests (up-to-date)
 | CodeChef | SQL Contest (Unrated) | 2023년 10월 4일 23:30 | 2023년 10월 5일 01:30 |
 | BOJ Open | 제2회 보라매컵 본선 Open Contest · Arena #9 | 2023년 10월 7일 18:00 | 2023년 10월 7일 21:00 |
 | AtCoder | UNIQUE VISION Programming Contest 2023 Autumn(AtCoder Beginner Contest 323) | 2023년 10월 7일 21:00 | 2023년 10월 7일 22:40 |
+| Facebook | Meta Hacker Cup 2023 Round 1 | 2023년 10월 8일 02:00 | 2023년 10월 8일 05:00 |
 | Codeforces | Codeforces Round (Div. 1, based on COMPFEST 15 - Final Round) | 2023년 10월 8일 18:05 | 2023년 10월 8일 20:35 |
 | Codeforces | Codeforces Round (Div. 2, based on COMPFEST 15 - Final Round) | 2023년 10월 8일 18:05 | 2023년 10월 8일 20:35 |
 | AtCoder | AtCoder Regular Contest 166 | 2023년 10월 8일 21:00 | 2023년 10월 8일 23:00 |
@@ -22,11 +23,15 @@ Competitive Programming Contests (up-to-date)
 | AtCoder | Japan Registry Services (JPRS) Programming Contest 2023 (AtCoder Beginner Contest 324) | 2023년 10월 14일 21:00 | 2023년 10월 14일 22:40 |
 | AtCoder | AtCoder Regular Contest 167 | 2023년 10월 15일 21:00 | 2023년 10월 15일 23:00 |
 | CodeChef | Starters 104 | 2023년 10월 18일 23:30 | 2023년 10월 19일 01:30 |
+| ICPC | 2023 Asia-Seoul Korea Preliminary Contest | 2023년 10월 21일 14:00 | 2023년 10월 21일 17:00 |
 | AtCoder | KEYENCE Programming Contest 2023 Autumn（AtCoder Beginner Contest 325） | 2023년 10월 21일 21:00 | 2023년 10월 21일 22:40 |
+| Facebook | Meta Hacker Cup 2023 Round 2 | 2023년 10월 22일 02:00 | 2023년 10월 22일 05:00 |
 | Codeforces | Codeforces Round (Div. 2) | 2023년 10월 22일 16:05 | 2023년 10월 22일 18:05 |
 | Codeforces | Codeforces Round (Div. 3) | 2023년 10월 22일 21:05 | 2023년 10월 22일 23:20 |
 | CodeChef | Starters 105 | 2023년 10월 25일 23:30 | 2023년 10월 26일 01:30 |
 | AtCoder | Panasonic Programming Contest 2023（AtCoder Beginner Contest 326） | 2023년 10월 28일 21:00 | 2023년 10월 28일 22:40 |
+| Facebook | Meta Hacker Cup 2023 Round 3 | 2023년 11월 5일 02:00 | 2023년 11월 5일 05:00 |
 | BOJ Open | 제1회 스타보우컵 | 2023년 11월 18일 16:00 | 2023년 11월 18일 19:00 |
+| Facebook | Meta Hacker Cup 2023 Final Round | 2023년 12월 9일 11:00 | 2023년 12월 10일 02:00 |
 
-Updated at 2023/10/02, 09:40:10
+Updated at 2023/10/02, 21:16:49
