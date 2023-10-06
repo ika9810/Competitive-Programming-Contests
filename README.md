@@ -38,4 +38,4 @@ Competitive Programming Contests (up-to-date)
 | BOJ Open | 제1회 스타보우컵 | 2023년 11월 18일 16:00 | 2023년 11월 18일 19:00 |
 | Facebook | Meta Hacker Cup 2023 Final Round | 2023년 12월 9일 11:00 | 2023년 12월 10일 02:00 |
 
-Updated at 2023/10/06, 09:39:26
+Updated at 2023/10/06, 21:17:04
