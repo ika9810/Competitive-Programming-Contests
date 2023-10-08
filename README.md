@@ -8,9 +8,10 @@ Competitive Programming Contests (up-to-date)
 
  Contest ID | Title | Start Time | End Time |
 ---|---|---|---|
-| Codeforces | Codeforces Round 902 (Div. 1, based on COMPFEST 15 - Final Round) | 2023년 10월 8일 18:05 | 2023년 10월 8일 20:35 |
-| Codeforces | Codeforces Round 902 (Div. 2, based on COMPFEST 15 - Final Round) | 2023년 10월 8일 18:05 | 2023년 10월 8일 20:35 |
 | AtCoder | AtCoder Regular Contest 166 | 2023년 10월 8일 21:00 | 2023년 10월 8일 23:00 |
+
+ Contest ID | Title | Start Time | End Time |
+---|---|---|---|
 | Codeforces | Educational Codeforces Round 156 (Rated for Div. 2) | 2023년 10월 9일 23:35 | 2023년 10월 10일 01:35 |
 | CodeChef | Starters 103 | 2023년 10월 11일 23:30 | 2023년 10월 12일 01:30 |
 | Codeforces | Codeforces Round (Div. 3) | 2023년 10월 12일 23:35 | 2023년 10월 13일 01:50 |
@@ -36,4 +37,4 @@ Competitive Programming Contests (up-to-date)
 | BOJ Open | 제1회 스타보우컵 | 2023년 11월 18일 16:00 | 2023년 11월 18일 19:00 |
 | Facebook | Meta Hacker Cup 2023 Final Round | 2023년 12월 9일 11:00 | 2023년 12월 10일 02:00 |
 
-Updated at 2023/10/08, 09:42:32
+Updated at 2023/10/08, 21:14:39
