@@ -27,6 +27,7 @@ Competitive Programming Contests (up-to-date)
 | Codeforces | Codeforces Round (Div. 2) | 2023년 10월 28일 23:35 | 2023년 10월 29일 02:05 |
 | BOJ Open | 월간 향유회 2023. 10. | 2023년 10월 29일 19:00 | 2023년 10월 29일 21:00 |
 | Codeforces | Codeforces Round (Div. 2) | 2023년 10월 30일 23:35 | 2023년 10월 31일 01:35 |
+| AtCoder | HHKB Programming Contest 2023(AtCoder Beginner Contest 327) | 2023년 11월 4일 21:00 | 2023년 11월 4일 22:40 |
 | Facebook | Meta Hacker Cup 2023 Round 3 | 2023년 11월 5일 02:00 | 2023년 11월 5일 05:00 |
 | AtCoder | Toyota Programming Contest 2023#6（AtCoder Heuristic Contest 021） | 2023년 11월 5일 15:00 | 2023년 11월 5일 19:00 |
 | BOJ Open | 2023 IGRUS Newbie Programming Contest Open | 2023년 11월 11일 18:00 | 2023년 11월 11일 21:00 |
@@ -36,4 +37,4 @@ Competitive Programming Contests (up-to-date)
 | BOJ Open | 제1회 스타보우컵 | 2023년 11월 18일 16:00 | 2023년 11월 18일 19:00 |
 | Facebook | Meta Hacker Cup 2023 Final Round | 2023년 12월 9일 11:00 | 2023년 12월 10일 02:00 |
 
-Updated at 2023/10/13, 09:40:40
+Updated at 2023/10/13, 21:16:40
