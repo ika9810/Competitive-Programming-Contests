@@ -8,9 +8,11 @@ Competitive Programming Contests (up-to-date)
 
  Contest ID | Title | Start Time | End Time |
 ---|---|---|---|
-| BOJ Open | 2023 KAIST 13th ICPC Mock Competition Open Contest | 2023년 10월 14일 12:00 | 2023년 10월 14일 17:00 |
 | AtCoder | AtCoder Heuristic Contest 025 | 2023년 10월 14일 12:00 | 2023년 10월 22일 19:00 |
 | AtCoder | Japan Registry Services (JPRS) Programming Contest 2023 (AtCoder Beginner Contest 324) | 2023년 10월 14일 21:00 | 2023년 10월 14일 22:40 |
+
+ Contest ID | Title | Start Time | End Time |
+---|---|---|---|
 | AtCoder | AtCoder Regular Contest 167 | 2023년 10월 15일 21:00 | 2023년 10월 15일 23:00 |
 | CodeChef | Starters 104 | 2023년 10월 18일 23:30 | 2023년 10월 19일 01:30 |
 | ICPC | 2023 Asia-Seoul Korea Preliminary Contest | 2023년 10월 21일 14:00 | 2023년 10월 21일 17:00 |
@@ -39,6 +41,7 @@ Competitive Programming Contests (up-to-date)
 | CodeChef | Starters 108 | 2023년 11월 15일 23:30 | 2023년 11월 16일 01:30 |
 | BOJ Open | 제1회 스타보우컵 | 2023년 11월 18일 16:00 | 2023년 11월 18일 19:00 |
 | CodeChef | Starters 109 | 2023년 11월 22일 23:30 | 2023년 11월 23일 01:30 |
+| CodeChef | Starters 110 | 2023년 11월 29일 23:30 | 2023년 11월 30일 01:30 |
 | Facebook | Meta Hacker Cup 2023 Final Round | 2023년 12월 9일 11:00 | 2023년 12월 10일 02:00 |
 
-Updated at 2023/10/14, 09:38:23
+Updated at 2023/10/14, 21:14:39
