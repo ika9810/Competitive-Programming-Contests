@@ -9,11 +9,10 @@ Competitive Programming Contests (up-to-date)
  Contest ID | Title | Start Time | End Time |
 ---|---|---|---|
 | AtCoder | AtCoder Heuristic Contest 025 | 2023년 10월 14일 12:00 | 2023년 10월 22일 19:00 |
+| AtCoder | KEYENCE Programming Contest 2023 Autumn（AtCoder Beginner Contest 325） | 2023년 10월 21일 21:00 | 2023년 10월 21일 22:40 |
 
  Contest ID | Title | Start Time | End Time |
 ---|---|---|---|
-| ICPC | 2023 Asia-Seoul Korea Preliminary Contest | 2023년 10월 21일 14:00 | 2023년 10월 21일 17:00 |
-| AtCoder | KEYENCE Programming Contest 2023 Autumn（AtCoder Beginner Contest 325） | 2023년 10월 21일 21:00 | 2023년 10월 21일 22:40 |
 | Facebook | Meta Hacker Cup 2023 Round 2 | 2023년 10월 22일 02:00 | 2023년 10월 22일 05:00 |
 | Codeforces | Codeforces Round 904 (Div. 2) | 2023년 10월 22일 16:05 | 2023년 10월 22일 18:05 |
 | Codeforces | Codeforces Round 905 (Div. 3) | 2023년 10월 22일 20:05 | 2023년 10월 22일 22:05 |
@@ -50,4 +49,4 @@ Competitive Programming Contests (up-to-date)
 | AtCoder | Daiwa Securities Co. Ltd. Programming Contest 2023（AtCoder Beginner Contest 331） | 2023년 12월 2일 21:00 | 2023년 12월 2일 22:40 |
 | Facebook | Meta Hacker Cup 2023 Final Round | 2023년 12월 9일 11:00 | 2023년 12월 10일 02:00 |
 
-Updated at 2023/10/21, 09:38:16
+Updated at 2023/10/21, 21:14:46
