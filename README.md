@@ -17,6 +17,7 @@ Competitive Programming Contests (up-to-date)
 | BOJ Open | 월간 향유회 2023. 10. | 2023년 10월 29일 19:00 | 2023년 10월 29일 21:00 |
 | Codeforces | Codeforces Round (Div. 2) | 2023년 10월 30일 23:35 | 2023년 10월 31일 01:35 |
 | CodeChef | Starters 106 | 2023년 11월 1일 23:30 | 2023년 11월 2일 01:30 |
+| BOJ Open | 제 1회 DGUPC Open Contest | 2023년 11월 3일 19:00 | 2023년 11월 3일 22:00 |
 | Programmers | 2023 Winter Coding - 겨울방학 스타트업 인턴 프로그램 | 2023년 11월 4일 14:00 | 2023년 11월 4일 18:00 |
 | BOJ Open | 2023 Goricon Open Contest | 2023년 11월 4일 17:00 | 2023년 11월 4일 20:00 |
 | AtCoder | HHKB Programming Contest 2023(AtCoder Beginner Contest 327) | 2023년 11월 4일 21:00 | 2023년 11월 4일 22:40 |
@@ -33,10 +34,11 @@ Competitive Programming Contests (up-to-date)
 | BOJ Open | 2023 Sogang Programming Contest Open (Champion) | 2023년 11월 12일 14:00 | 2023년 11월 12일 17:00 |
 | CodeChef | Starters 108 | 2023년 11월 15일 23:30 | 2023년 11월 16일 01:30 |
 | BOJ Open | 제1회 스타보우컵 | 2023년 11월 18일 16:00 | 2023년 11월 18일 19:00 |
+| AtCoder | Ｓｋｙ Inc, Programming Contest 2023（AtCoder Beginner Contest 329） | 2023년 11월 18일 21:00 | 2023년 11월 18일 22:40 |
 | Codeforces | 2023 ICPC Post-World Finals Challenge powered by Huawei | 2023년 11월 20일 16:00 | 2023년 12월 4일 16:00 |
 | CodeChef | Starters 109 | 2023년 11월 22일 23:30 | 2023년 11월 23일 01:30 |
 | CodeChef | Starters 110 | 2023년 11월 29일 23:30 | 2023년 11월 30일 01:30 |
 | AtCoder | Daiwa Securities Co. Ltd. Programming Contest 2023（AtCoder Beginner Contest 331） | 2023년 12월 2일 21:00 | 2023년 12월 2일 22:40 |
 | Facebook | Meta Hacker Cup 2023 Final Round | 2023년 12월 9일 11:00 | 2023년 12월 10일 02:00 |
 
-Updated at 2023/10/24, 09:39:43
+Updated at 2023/10/24, 21:16:09
