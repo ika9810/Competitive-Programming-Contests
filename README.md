@@ -8,8 +8,10 @@ Competitive Programming Contests (up-to-date)
 
  Contest ID | Title | Start Time | End Time |
 ---|---|---|---|
-| BOJ Open | 2023 제1회 춘배컵 | 2023년 10월 28일 10:00 | 2023년 10월 28일 18:00 |
 | AtCoder | Panasonic Programming Contest 2023（AtCoder Beginner Contest 326） | 2023년 10월 28일 21:00 | 2023년 10월 28일 22:40 |
+
+ Contest ID | Title | Start Time | End Time |
+---|---|---|---|
 | Codeforces | Codeforces Round 906 (Div. 1) | 2023년 10월 28일 23:35 | 2023년 10월 29일 02:05 |
 | Codeforces | Codeforces Round 906 (Div. 2) | 2023년 10월 28일 23:35 | 2023년 10월 29일 02:05 |
 | BOJ Open | 기1행 | 2023년 10월 29일 14:00 | 2023년 10월 29일 17:00 |
@@ -43,4 +45,4 @@ Competitive Programming Contests (up-to-date)
 | AtCoder | Daiwa Securities Co. Ltd. Programming Contest 2023（AtCoder Beginner Contest 331） | 2023년 12월 2일 21:00 | 2023년 12월 2일 22:40 |
 | Facebook | Meta Hacker Cup 2023 Final Round | 2023년 12월 9일 11:00 | 2023년 12월 10일 02:00 |
 
-Updated at 2023/10/28, 09:38:22
+Updated at 2023/10/28, 21:14:18
