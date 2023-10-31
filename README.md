@@ -31,6 +31,7 @@ Competitive Programming Contests (up-to-date)
 | BOJ Open | 제1회 스타보우컵 | 2023년 11월 18일 16:00 | 2023년 11월 18일 19:00 |
 | AtCoder | Ｓｋｙ Inc, Programming Contest 2023（AtCoder Beginner Contest 329） | 2023년 11월 18일 21:00 | 2023년 11월 18일 22:40 |
 | BOJ Open | 2023 연세대학교 프로그래밍 경진대회 Open Contest | 2023년 11월 19일 13:00 | 2023년 11월 19일 17:00 |
+| AtCoder | ALGO ARTIS Programming Contest 2023 Autumn（AtCoder Regular Contest 168） | 2023년 11월 19일 21:00 | 2023년 11월 19일 23:00 |
 | Codeforces | 2023 ICPC Post-World Finals Challenge powered by Huawei | 2023년 11월 20일 16:00 | 2023년 12월 4일 16:00 |
 | CodeChef | Starters 109 | 2023년 11월 22일 23:30 | 2023년 11월 23일 01:30 |
 | AtCoder | TOYOTA SYSTEMS Programming Contest 2023(AtCoder Beginner Contest 330) | 2023년 11월 25일 21:00 | 2023년 11월 25일 22:40 |
@@ -38,4 +39,4 @@ Competitive Programming Contests (up-to-date)
 | AtCoder | Daiwa Securities Co. Ltd. Programming Contest 2023（AtCoder Beginner Contest 331） | 2023년 12월 2일 21:00 | 2023년 12월 2일 22:40 |
 | Facebook | Meta Hacker Cup 2023 Final Round | 2023년 12월 9일 11:00 | 2023년 12월 10일 02:00 |
 
-Updated at 2023/10/31, 09:40:08
+Updated at 2023/10/31, 21:16:11
