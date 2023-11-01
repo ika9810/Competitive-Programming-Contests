@@ -8,7 +8,7 @@ Competitive Programming Contests (up-to-date)
 
  Contest ID | Title | Start Time | End Time |
 ---|---|---|---|
-| CodeChef | Starters 106 | 2023년 11월 1일 23:30 | 2023년 11월 2일 01:30 |
+| CodeChef | Starters 106 (Rated till 5 Stars) | 2023년 11월 1일 23:30 | 2023년 11월 2일 01:30 |
 | BOJ Open | 제 1회 DGUPC Open Contest | 2023년 11월 3일 19:00 | 2023년 11월 3일 22:00 |
 | Codeforces | Educational Codeforces Round 157 (Rated for Div. 2) | 2023년 11월 3일 23:35 | 2023년 11월 4일 01:35 |
 | Programmers | 2023 Winter Coding - 겨울방학 스타트업 인턴 프로그램 | 2023년 11월 4일 14:00 | 2023년 11월 4일 18:00 |
@@ -36,7 +36,8 @@ Competitive Programming Contests (up-to-date)
 | CodeChef | Starters 109 | 2023년 11월 22일 23:30 | 2023년 11월 23일 01:30 |
 | AtCoder | TOYOTA SYSTEMS Programming Contest 2023(AtCoder Beginner Contest 330) | 2023년 11월 25일 21:00 | 2023년 11월 25일 22:40 |
 | CodeChef | Starters 110 | 2023년 11월 29일 23:30 | 2023년 11월 30일 01:30 |
+| AtCoder | HACK TO THE FUTURE 2024 (AtCoder Heuristic Contest 027) | 2023년 12월 1일 19:00 | 2023년 12월 10일 19:00 |
 | AtCoder | Daiwa Securities Co. Ltd. Programming Contest 2023（AtCoder Beginner Contest 331） | 2023년 12월 2일 21:00 | 2023년 12월 2일 22:40 |
 | Facebook | Meta Hacker Cup 2023 Final Round | 2023년 12월 9일 11:00 | 2023년 12월 10일 02:00 |
 
-Updated at 2023/11/01, 09:42:25
+Updated at 2023/11/01, 21:16:19
