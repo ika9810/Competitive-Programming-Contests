@@ -8,9 +8,6 @@ Competitive Programming Contests (up-to-date)
 
  Contest ID | Title | Start Time | End Time |
 ---|---|---|---|
-| BOJ Open | 2023 건국대학교 프로그래밍 경진대회 (KUPC) Open Contest · Arena #10 | 2023년 11월 5일 14:00 | 2023년 11월 5일 17:00 |
-| AtCoder | Toyota Programming Contest 2023#6（AtCoder Heuristic Contest 026） | 2023년 11월 5일 15:00 | 2023년 11월 5일 19:00 |
-| BOJ Open | 2023 4분기 Small & Large Lighter Cup | 2023년 11월 5일 19:00 | 2023년 11월 5일 21:00 |
 | Codeforces | Codeforces Round (Div. 1) | 2023년 11월 7일 23:35 | 2023년 11월 8일 01:35 |
 | Codeforces | Codeforces Round (Div. 2) | 2023년 11월 7일 23:35 | 2023년 11월 8일 01:35 |
 | CodeChef | Starters 107 | 2023년 11월 8일 23:30 | 2023년 11월 9일 01:30 |
@@ -18,8 +15,8 @@ Competitive Programming Contests (up-to-date)
 | BOJ Open | SASA Programming Contest 2023 Open Contest Div. 2 | 2023년 11월 11일 15:00 | 2023년 11월 11일 18:00 |
 | BOJ Open | 2023 IGRUS Newbie Programming Contest Open | 2023년 11월 11일 18:00 | 2023년 11월 11일 21:00 |
 | AtCoder | Toyota Programming Contest 2023#7（AtCoder Beginner Contest 328） | 2023년 11월 11일 21:00 | 2023년 11월 11일 22:40 |
-| BOJ Open | 2023 Sogang Programming Contest Open (Master) | 2023년 11월 12일 14:00 | 2023년 11월 12일 17:00 |
-| BOJ Open | 2023 Sogang Programming Contest Open (Champion) | 2023년 11월 12일 14:00 | 2023년 11월 12일 17:00 |
+| BOJ Open | 2023 Sogang Programming Contest Open (Master) · Arena #12 | 2023년 11월 12일 14:00 | 2023년 11월 12일 17:00 |
+| BOJ Open | 2023 Sogang Programming Contest Open (Champion) · Arena #12 | 2023년 11월 12일 14:00 | 2023년 11월 12일 17:00 |
 | CodeChef | Starters 108 | 2023년 11월 15일 23:30 | 2023년 11월 16일 01:30 |
 | BOJ Open | 제1회 스타보우컵 | 2023년 11월 18일 18:00 | 2023년 11월 18일 21:00 |
 | AtCoder | Ｓｋｙ Inc, Programming Contest 2023（AtCoder Beginner Contest 329） | 2023년 11월 18일 21:00 | 2023년 11월 18일 22:40 |
@@ -34,4 +31,4 @@ Competitive Programming Contests (up-to-date)
 | AtCoder | Daiwa Securities Co. Ltd. Programming Contest 2023（AtCoder Beginner Contest 331） | 2023년 12월 2일 21:00 | 2023년 12월 2일 22:40 |
 | Facebook | Meta Hacker Cup 2023 Final Round | 2023년 12월 9일 11:00 | 2023년 12월 10일 02:00 |
 
-Updated at 2023/11/05, 09:43:02
+Updated at 2023/11/05, 21:14:33
