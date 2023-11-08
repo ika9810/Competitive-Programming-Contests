@@ -32,4 +32,4 @@ Competitive Programming Contests (up-to-date)
 | AtCoder | estie Programming Contest 2023 (AtCoder Regular Contest 169) | 2023년 12월 9일 21:00 | 2023년 12월 9일 23:00 |
 | AtCoder | AtCoder Grand Contest 065 | 2023년 12월 17일 21:00 | 2023년 12월 18일 00:00 |
 
-Updated at 2023/11/08, 09:40:07
+Updated at 2023/11/08, 21:15:58
