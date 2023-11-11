@@ -8,10 +8,10 @@ Competitive Programming Contests (up-to-date)
 
  Contest ID | Title | Start Time | End Time |
 ---|---|---|---|
-| BOJ Open | SASA Programming Contest 2023 Open Contest Div. 1 · Arena #11 | 2023년 11월 11일 15:00 | 2023년 11월 11일 18:00 |
-| BOJ Open | SASA Programming Contest 2023 Open Contest Div. 2 | 2023년 11월 11일 15:00 | 2023년 11월 11일 18:00 |
-| BOJ Open | 2023 IGRUS Newbie Programming Contest Open | 2023년 11월 11일 18:00 | 2023년 11월 11일 21:00 |
 | AtCoder | Toyota Programming Contest 2023#7（AtCoder Beginner Contest 328） | 2023년 11월 11일 21:00 | 2023년 11월 11일 22:40 |
+
+ Contest ID | Title | Start Time | End Time |
+---|---|---|---|
 | BOJ Open | 2023 Sogang Programming Contest Open (Master) · Arena #12 | 2023년 11월 12일 14:00 | 2023년 11월 12일 17:00 |
 | BOJ Open | 2023 Sogang Programming Contest Open (Champion) · Arena #12 | 2023년 11월 12일 14:00 | 2023년 11월 12일 17:00 |
 | CodeChef | Starters 108 | 2023년 11월 15일 23:30 | 2023년 11월 16일 01:30 |
@@ -32,4 +32,4 @@ Competitive Programming Contests (up-to-date)
 | AtCoder | estie Programming Contest 2023 (AtCoder Regular Contest 169) | 2023년 12월 9일 21:00 | 2023년 12월 9일 23:00 |
 | AtCoder | AtCoder Grand Contest 065 | 2023년 12월 17일 21:00 | 2023년 12월 18일 00:00 |
 
-Updated at 2023/11/11, 09:39:53
+Updated at 2023/11/11, 21:14:34
