@@ -21,13 +21,16 @@ Competitive Programming Contests (up-to-date)
 | Codeforces | CodeTON Round 7 (Div. 1 + Div. 2, Rated, Prizes!) | 2023년 11월 25일 23:35 | 2023년 11월 26일 02:05 |
 | BOJ Open | solved.ac Grand Arena #3 — Division 1 · Arena #13 | 2023년 11월 26일 14:00 | 2023년 11월 26일 17:00 |
 | BOJ Open | solved.ac Grand Arena #3 — Division 2 · Arena #13 | 2023년 11월 26일 14:00 | 2023년 11월 26일 17:00 |
+| BOJ Open | 월간 향유회 2023. 11. | 2023년 11월 26일 19:00 | 2023년 11월 26일 21:00 |
 | CodeChef | Starters 110 | 2023년 11월 29일 23:30 | 2023년 11월 30일 01:30 |
 | AtCoder | HACK TO THE FUTURE 2024 (AtCoder Heuristic Contest 027) | 2023년 12월 1일 19:00 | 2023년 12월 10일 19:00 |
 | AtCoder | DEGwer's Doctoral Thesis Cheering Contest | 2023년 12월 2일 13:00 | 2023년 12월 2일 18:00 |
 | BOJ Open | INU 코드페스티벌 2023 Open Contest | 2023년 12월 2일 14:00 | 2023년 12월 2일 17:00 |
 | AtCoder | Daiwa Securities Co. Ltd. Programming Contest 2023（AtCoder Beginner Contest 331） | 2023년 12월 2일 21:00 | 2023년 12월 2일 22:40 |
+| CodeChef | Starters 111 | 2023년 12월 6일 23:30 | 2023년 12월 7일 01:30 |
 | Facebook | Meta Hacker Cup 2023 Final Round | 2023년 12월 9일 11:00 | 2023년 12월 10일 02:00 |
 | AtCoder | estie Programming Contest 2023 (AtCoder Regular Contest 169) | 2023년 12월 9일 21:00 | 2023년 12월 9일 23:00 |
+| BOJ Open | 2023 서울사이버대학교 프로그래밍 경진대회 (SCUPC) | 2023년 12월 16일 14:00 | 2023년 12월 16일 19:00 |
 | AtCoder | AtCoder Grand Contest 065 | 2023년 12월 17일 21:00 | 2023년 12월 18일 00:00 |
 
-Updated at 2023/11/16, 09:42:13
+Updated at 2023/11/16, 21:17:02
