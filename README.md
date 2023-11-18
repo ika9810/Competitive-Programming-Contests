@@ -8,9 +8,10 @@ Competitive Programming Contests (up-to-date)
 
  Contest ID | Title | Start Time | End Time |
 ---|---|---|---|
-| BOJ Open | 2023 고려대학교 프로그래밍 경시대회 (KCPC) - Open Contest | 2023년 11월 18일 14:00 | 2023년 11월 18일 18:00 |
-| BOJ Open | 제1회 스타보우컵 | 2023년 11월 18일 18:00 | 2023년 11월 18일 21:00 |
 | AtCoder | Ｓｋｙ Inc, Programming Contest 2023（AtCoder Beginner Contest 329） | 2023년 11월 18일 21:00 | 2023년 11월 18일 22:40 |
+
+ Contest ID | Title | Start Time | End Time |
+---|---|---|---|
 | BOJ Open | 2023 연세대학교 프로그래밍 경진대회 Open Contest | 2023년 11월 19일 13:00 | 2023년 11월 19일 17:00 |
 | AtCoder | ALGO ARTIS Programming Contest 2023 Autumn（AtCoder Regular Contest 168） | 2023년 11월 19일 21:00 | 2023년 11월 19일 23:00 |
 | Codeforces | Codeforces Round 910 (Div. 2) | 2023년 11월 19일 23:35 | 2023년 11월 20일 01:35 |
@@ -41,4 +42,4 @@ Competitive Programming Contests (up-to-date)
 | CodeChef | Starters 113 | 2023년 12월 20일 23:30 | 2023년 12월 21일 01:30 |
 | CodeChef | Starters 114 | 2023년 12월 27일 23:30 | 2023년 12월 28일 01:30 |
 
-Updated at 2023/11/18, 09:40:59
+Updated at 2023/11/18, 21:14:46
