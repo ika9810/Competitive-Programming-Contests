@@ -8,8 +8,10 @@ Competitive Programming Contests (up-to-date)
 
  Contest ID | Title | Start Time | End Time |
 ---|---|---|---|
-| BOJ Open | 2023 연세대학교 프로그래밍 경진대회 Open Contest | 2023년 11월 19일 13:00 | 2023년 11월 19일 17:00 |
 | AtCoder | ALGO ARTIS Programming Contest 2023 Autumn（AtCoder Regular Contest 168） | 2023년 11월 19일 21:00 | 2023년 11월 19일 23:00 |
+
+ Contest ID | Title | Start Time | End Time |
+---|---|---|---|
 | Codeforces | Codeforces Round 910 (Div. 2) | 2023년 11월 19일 23:35 | 2023년 11월 20일 01:35 |
 | Codeforces | ICPC 2023 Online Challenge powered by Huawei | 2023년 11월 20일 16:00 | 2023년 12월 4일 16:00 |
 | CodeChef | Starters 109 | 2023년 11월 22일 23:30 | 2023년 11월 23일 01:30 |
@@ -25,6 +27,7 @@ Competitive Programming Contests (up-to-date)
 | AtCoder | DEGwer's Doctoral Thesis Cheering Contest | 2023년 12월 2일 13:00 | 2023년 12월 2일 18:00 |
 | BOJ Open | INU 코드페스티벌 2023 Open Contest | 2023년 12월 2일 14:00 | 2023년 12월 2일 17:00 |
 | AtCoder | Daiwa Securities Co. Ltd. Programming Contest 2023（AtCoder Beginner Contest 331） | 2023년 12월 2일 21:00 | 2023년 12월 2일 22:40 |
+| BOJ Open | BOJ Bundle in Math. Vol 1 | 2023년 12월 3일 08:00 | 2023년 12월 10일 08:00 |
 | BOJ Open | 제10회 한양대학교 프로그래밍 경시대회(HCPC) Beginner Division Open Contest · Arena #14 | 2023년 12월 3일 13:30 | 2023년 12월 3일 16:30 |
 | BOJ Open | 제10회 한양대학교 프로그래밍 경시대회(HCPC) Advanced Division Open Contest · Arena #14 | 2023년 12월 3일 13:30 | 2023년 12월 3일 16:30 |
 | BOJ Open | 가희와 함께 하는 6회 코딩 테스트 | 2023년 12월 3일 19:00 | 2023년 12월 3일 23:00 |
@@ -39,4 +42,4 @@ Competitive Programming Contests (up-to-date)
 | CodeChef | Starters 113 | 2023년 12월 20일 23:30 | 2023년 12월 21일 01:30 |
 | CodeChef | Starters 114 | 2023년 12월 27일 23:30 | 2023년 12월 28일 01:30 |
 
-Updated at 2023/11/19, 09:45:03
+Updated at 2023/11/19, 21:15:06
