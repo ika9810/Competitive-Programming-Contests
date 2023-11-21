@@ -9,10 +9,10 @@ Competitive Programming Contests (up-to-date)
  Contest ID | Title | Start Time | End Time |
 ---|---|---|---|
 | Codeforces | ICPC 2023 Online Challenge powered by Huawei | 2023년 11월 20일 16:00 | 2023년 12월 4일 16:00 |
+| BOJ Open | 솔브드 아레나로 대회를 열고 싶었으나 실패해서 그냥 여는 대회 | 2023년 11월 21일 12:00 | 2023년 11월 24일 00:00 |
 
  Contest ID | Title | Start Time | End Time |
 ---|---|---|---|
-| BOJ Open | 솔브드 아레나로 대회를 열고 싶었으나 실패해서 그냥 여는 대회 | 2023년 11월 21일 12:00 | 2023년 11월 24일 00:00 |
 | CodeChef | Starters 109 | 2023년 11월 22일 23:30 | 2023년 11월 23일 01:30 |
 | Codeforces | Educational Codeforces Round 158 (Rated for Div. 2) | 2023년 11월 24일 23:35 | 2023년 11월 25일 01:35 |
 | AtCoder | TOYOTA SYSTEMS Programming Contest 2023(AtCoder Beginner Contest 330) | 2023년 11월 25일 21:00 | 2023년 11월 25일 22:40 |
@@ -34,6 +34,7 @@ Competitive Programming Contests (up-to-date)
 | CodeChef | Starters 111 | 2023년 12월 6일 23:30 | 2023년 12월 7일 01:30 |
 | Facebook | Meta Hacker Cup 2023 Final Round | 2023년 12월 9일 11:00 | 2023년 12월 10일 02:00 |
 | AtCoder | estie Programming Contest 2023 (AtCoder Regular Contest 169) | 2023년 12월 9일 21:00 | 2023년 12월 9일 23:00 |
+| AtCoder | AtCoder Beginner Contest 332 | 2023년 12월 10일 21:00 | 2023년 12월 10일 22:40 |
 | CodeChef | Starters 112 | 2023년 12월 13일 23:30 | 2023년 12월 14일 01:30 |
 | BOJ Open | 2023 서울사이버대학교 프로그래밍 경진대회 (SCUPC) | 2023년 12월 16일 14:00 | 2023년 12월 16일 19:00 |
 | AtCoder | Toyota Programming Contest 2023#8（AtCoder Beginner Contest 333） | 2023년 12월 16일 21:00 | 2023년 12월 16일 22:40 |
@@ -42,4 +43,4 @@ Competitive Programming Contests (up-to-date)
 | CodeChef | Starters 113 | 2023년 12월 20일 23:30 | 2023년 12월 21일 01:30 |
 | CodeChef | Starters 114 | 2023년 12월 27일 23:30 | 2023년 12월 28일 01:30 |
 
-Updated at 2023/11/21, 09:42:46
+Updated at 2023/11/21, 21:17:14
