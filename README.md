@@ -12,9 +12,6 @@ Competitive Programming Contests (up-to-date)
 
  Contest ID | Title | Start Time | End Time |
 ---|---|---|---|
-| BOJ Open | solved.ac Grand Arena #3 — Division 1 · Arena #13 | 2023년 11월 26일 14:00 | 2023년 11월 26일 17:00 |
-| BOJ Open | solved.ac Grand Arena #3 — Division 2 · Arena #13 | 2023년 11월 26일 14:00 | 2023년 11월 26일 17:00 |
-| BOJ Open | 월간 향유회 2023. 11. | 2023년 11월 26일 19:00 | 2023년 11월 26일 21:00 |
 | Codeforces | Codeforces Round (Div. 2) | 2023년 11월 26일 23:35 | 2023년 11월 27일 01:35 |
 | CodeChef | Starters 110 | 2023년 11월 29일 23:30 | 2023년 11월 30일 01:30 |
 | AtCoder | HACK TO THE FUTURE 2024 (AtCoder Heuristic Contest 027) | 2023년 12월 1일 19:00 | 2023년 12월 10일 19:00 |
@@ -40,4 +37,4 @@ Competitive Programming Contests (up-to-date)
 | AtCoder | RECRUIT Nihonbashi Half Marathon 2024 Winter（AtCoder Heuristic Contest 029） | 2023년 12월 22일 12:00 | 2023년 12월 26일 21:00 |
 | CodeChef | Starters 114 | 2023년 12월 27일 23:30 | 2023년 12월 28일 01:30 |
 
-Updated at 2023/11/26, 09:44:30
+Updated at 2023/11/26, 21:15:00
