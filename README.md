@@ -41,4 +41,4 @@ Competitive Programming Contests (up-to-date)
 | AtCoder | RECRUIT Nihonbashi Half Marathon 2024 Winter（AtCoder Heuristic Contest 029） | 2023년 12월 22일 12:00 | 2023년 12월 26일 21:00 |
 | CodeChef | Starters 114 | 2023년 12월 27일 23:30 | 2023년 12월 28일 01:30 |
 
-Updated at 2023/11/27, 09:42:19
+Updated at 2023/11/27, 21:17:03
