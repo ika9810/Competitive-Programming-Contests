@@ -15,7 +15,7 @@ Competitive Programming Contests (up-to-date)
 | CodeChef | Starters 110 (Rated till 5-stars) | 2023년 11월 29일 23:30 | 2023년 11월 30일 01:30 |
 | Codeforces | Codeforces Round 912 (Div. 2) | 2023년 12월 1일 01:35 | 2023년 12월 1일 03:35 |
 | AtCoder | HACK TO THE FUTURE 2024 (AtCoder Heuristic Contest 027) | 2023년 12월 1일 19:00 | 2023년 12월 10일 19:00 |
-| AtCoder | DEGwer's Doctoral Thesis Cheering Contest | 2023년 12월 2일 13:00 | 2023년 12월 2일 18:00 |
+| AtCoder | DEGwer's Doctoral Dissertation Cheering Contest | 2023년 12월 2일 13:00 | 2023년 12월 2일 18:00 |
 | BOJ Open | INU 코드페스티벌 2023 Open Contest | 2023년 12월 2일 14:00 | 2023년 12월 2일 17:00 |
 | BOJ Open | 2023 서울시립대학교 프로그래밍 경진대회 (UOSPC) Open contest | 2023년 12월 2일 18:00 | 2023년 12월 2일 21:00 |
 | AtCoder | Daiwa Securities Co. Ltd. Programming Contest 2023（AtCoder Beginner Contest 331） | 2023년 12월 2일 21:00 | 2023년 12월 2일 22:40 |
@@ -41,4 +41,4 @@ Competitive Programming Contests (up-to-date)
 | AtCoder | RECRUIT Nihonbashi Half Marathon 2024 Winter（AtCoder Heuristic Contest 029） | 2023년 12월 22일 12:00 | 2023년 12월 26일 21:00 |
 | CodeChef | Starters 114 | 2023년 12월 27일 23:30 | 2023년 12월 28일 01:30 |
 
-Updated at 2023/11/28, 09:42:36
+Updated at 2023/11/28, 21:16:51
