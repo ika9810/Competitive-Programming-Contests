@@ -42,4 +42,4 @@ Competitive Programming Contests (up-to-date)
 | Codeforces | Codeforces Round (Div. 1 + Div. 2) | 2023년 12월 23일 23:35 | 2023년 12월 24일 02:05 |
 | CodeChef | Starters 114 | 2023년 12월 27일 23:30 | 2023년 12월 28일 01:30 |
 
-Updated at 2023/11/30, 09:41:57
+Updated at 2023/11/30, 21:16:53
