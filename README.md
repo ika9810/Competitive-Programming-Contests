@@ -9,10 +9,10 @@ Competitive Programming Contests (up-to-date)
  Contest ID | Title | Start Time | End Time |
 ---|---|---|---|
 | Codeforces | ICPC 2023 Online Challenge powered by Huawei | 2023년 11월 20일 16:00 | 2023년 12월 4일 16:00 |
+| AtCoder | HACK TO THE FUTURE 2024 (AtCoder Heuristic Contest 027) | 2023년 12월 1일 19:00 | 2023년 12월 10일 19:00 |
 
  Contest ID | Title | Start Time | End Time |
 ---|---|---|---|
-| AtCoder | HACK TO THE FUTURE 2024 (AtCoder Heuristic Contest 027) | 2023년 12월 1일 19:00 | 2023년 12월 10일 19:00 |
 | AtCoder | DEGwer's Doctoral Dissertation Cheering Contest | 2023년 12월 2일 13:00 | 2023년 12월 2일 18:00 |
 | BOJ Open | INU 코드페스티벌 2023 Open Contest | 2023년 12월 2일 14:00 | 2023년 12월 2일 17:00 |
 | BOJ Open | 2023 서울시립대학교 프로그래밍 경진대회 (UOSPC) Open contest | 2023년 12월 2일 18:00 | 2023년 12월 2일 21:00 |
@@ -41,4 +41,4 @@ Competitive Programming Contests (up-to-date)
 | Codeforces | Codeforces Round (Div. 1 + Div. 2) | 2023년 12월 23일 23:35 | 2023년 12월 24일 02:05 |
 | CodeChef | Starters 114 | 2023년 12월 27일 23:30 | 2023년 12월 28일 01:30 |
 
-Updated at 2023/12/01, 09:46:17
+Updated at 2023/12/01, 21:17:18
