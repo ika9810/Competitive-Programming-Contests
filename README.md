@@ -11,13 +11,10 @@ Competitive Programming Contests (up-to-date)
 | Codeforces | ICPC 2023 Online Challenge powered by Huawei | 2023년 11월 20일 16:00 | 2023년 12월 4일 16:00 |
 | AtCoder | HACK TO THE FUTURE 2024 (AtCoder Heuristic Contest 027) | 2023년 12월 1일 19:00 | 2023년 12월 10일 19:00 |
 | BOJ Open | BOJ Bundle in Math. Vol 1 | 2023년 12월 3일 08:00 | 2023년 12월 10일 08:00 |
+| BOJ Open | 가희와 함께 하는 6회 코딩 테스트 | 2023년 12월 3일 19:00 | 2023년 12월 3일 23:00 |
 
  Contest ID | Title | Start Time | End Time |
 ---|---|---|---|
-| BOJ Open | 제10회 한양대학교 프로그래밍 경시대회(HCPC) Beginner Division Open Contest · Arena #14 | 2023년 12월 3일 13:30 | 2023년 12월 3일 16:30 |
-| BOJ Open | 제10회 한양대학교 프로그래밍 경시대회(HCPC) Advanced Division Open Contest · Arena #14 | 2023년 12월 3일 13:30 | 2023년 12월 3일 16:30 |
-| Codeforces | 2023-2024 ICPC, Asia Jakarta Regional Contest (Online Mirror, Unrated, ICPC Rules, Teams Preferred) | 2023년 12월 3일 13:35 | 2023년 12월 3일 18:35 |
-| BOJ Open | 가희와 함께 하는 6회 코딩 테스트 | 2023년 12월 3일 19:00 | 2023년 12월 3일 23:00 |
 | Codeforces | Educational Codeforces Round 159 (Rated for Div. 2) | 2023년 12월 3일 23:35 | 2023년 12월 4일 01:35 |
 | Codeforces | Codeforces Round 913 (Div. 3) | 2023년 12월 5일 23:35 | 2023년 12월 6일 01:50 |
 | CodeChef | Starters 111 | 2023년 12월 6일 23:30 | 2023년 12월 7일 01:30 |
@@ -37,4 +34,4 @@ Competitive Programming Contests (up-to-date)
 | Codeforces | Codeforces Round (Div. 1 + Div. 2) | 2023년 12월 23일 23:35 | 2023년 12월 24일 02:05 |
 | CodeChef | Starters 114 | 2023년 12월 27일 23:30 | 2023년 12월 28일 01:30 |
 
-Updated at 2023/12/03, 09:44:48
+Updated at 2023/12/03, 21:15:13
