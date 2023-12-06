@@ -34,4 +34,4 @@ Competitive Programming Contests (up-to-date)
 | BOJ Open | 나는코더다 2023 송년대회 Open Contest | 2023년 12월 30일 19:00 | 2023년 12월 31일 00:00 |
 | AtCoder | AtCoder Beginner Contest 335 | 2024년 1월 6일 21:00 | 2024년 1월 6일 22:40 |
 
-Updated at 2023/12/06, 09:42:42
+Updated at 2023/12/06, 21:17:09
