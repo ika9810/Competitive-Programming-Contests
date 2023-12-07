@@ -27,10 +27,11 @@ Competitive Programming Contests (up-to-date)
 | CodeChef | Starters 113 | 2023년 12월 20일 23:30 | 2023년 12월 21일 01:30 |
 | AtCoder | RECRUIT Nihonbashi Half Marathon 2024 Winter（AtCoder Heuristic Contest 029） | 2023년 12월 22일 12:00 | 2023년 12월 26일 21:00 |
 | BOJ Open | 첫 번째 나들이 | 2023년 12월 23일 19:00 | 2023년 12월 23일 23:00 |
+| AtCoder | UNIQUE VISION Programming Contest 2023 Christmas (AtCoder Beginner Contest 334) | 2023년 12월 23일 21:00 | 2023년 12월 23일 22:40 |
 | Codeforces | Pinely Round 3 (Div. 1 + Div. 2) | 2023년 12월 23일 23:35 | 2023년 12월 24일 02:05 |
 | CodeChef | Starters 114 | 2023년 12월 27일 23:30 | 2023년 12월 28일 01:30 |
 | BOJ Open | SciOI 2023 Open Contest | 2023년 12월 30일 13:00 | 2023년 12월 30일 18:00 |
 | BOJ Open | 나는코더다 2023 송년대회 Open Contest | 2023년 12월 30일 19:00 | 2023년 12월 31일 00:00 |
 | AtCoder | AtCoder Beginner Contest 335 | 2024년 1월 6일 21:00 | 2024년 1월 6일 22:40 |
 
-Updated at 2023/12/07, 09:42:19
+Updated at 2023/12/07, 21:16:55
