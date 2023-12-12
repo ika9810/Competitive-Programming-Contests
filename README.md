@@ -27,5 +27,6 @@ Competitive Programming Contests (up-to-date)
 | BOJ Open | 나는코더다 2023 송년대회 Open Contest | 2023년 12월 30일 19:00 | 2023년 12월 31일 00:00 |
 | AtCoder | AtCoder Beginner Contest 335 | 2024년 1월 6일 21:00 | 2024년 1월 6일 22:40 |
 | Codeforces | 2024 New Year ICPC Challenge powered by Huawei | 2024년 1월 12일 16:00 | 2024년 1월 26일 16:00 |
+| AtCoder | ALGO ARTIS Programming Contest 2023 Winter（AtCoder Heuristic Contest 028） | 2024년 1월 13일 15:00 | 2024년 1월 13일 19:00 |
 
-Updated at 2023/12/12, 09:42:47
+Updated at 2023/12/12, 21:17:00
