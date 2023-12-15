@@ -27,8 +27,10 @@ Competitive Programming Contests (up-to-date)
 | BOJ Open | SciOI 2023 Open Contest | 2023년 12월 30일 13:00 | 2023년 12월 30일 18:00 |
 | BOJ Open | 나는코더다 2023 송년대회 Open Contest | 2023년 12월 30일 19:00 | 2023년 12월 31일 00:00 |
 | AtCoder | AtCoder Beginner Contest 335 | 2024년 1월 6일 21:00 | 2024년 1월 6일 22:40 |
+| BOJ Open | 제3회 흐즈로컵 (The 3rd Chromate Cup) Algorithm Division | 2024년 1월 7일 20:00 | 2024년 1월 7일 22:30 |
 | Codeforces | 2024 New Year ICPC Challenge powered by Huawei | 2024년 1월 12일 16:00 | 2024년 1월 26일 16:00 |
 | AtCoder | ALGO ARTIS Programming Contest 2023 Winter（AtCoder Heuristic Contest 028） | 2024년 1월 13일 15:00 | 2024년 1월 13일 19:00 |
+| AtCoder | AtCoder Beginner Contest 336 | 2024년 1월 14일 21:00 | 2024년 1월 14일 22:40 |
 | AtCoder | Masters Championship-qual- | 2024년 3월 3일 13:00 | 2024년 3월 3일 19:00 |
 
-Updated at 2023/12/15, 09:42:52
+Updated at 2023/12/15, 21:16:39
