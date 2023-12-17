@@ -10,6 +10,9 @@ Competitive Programming Contests (up-to-date)
 ---|---|---|---|
 | BOJ Open | 파댕이컵 | 2023년 12월 17일 18:00 | 2023년 12월 17일 22:00 |
 | AtCoder | AtCoder Grand Contest 065 | 2023년 12월 17일 21:00 | 2023년 12월 18일 00:00 |
+
+ Contest ID | Title | Start Time | End Time |
+---|---|---|---|
 | Codeforces | Educational Codeforces Round 160 (Rated for Div. 2) | 2023년 12월 18일 23:35 | 2023년 12월 19일 01:35 |
 | Codeforces | Codeforces Round 916 (Div. 3) | 2023년 12월 19일 23:35 | 2023년 12월 20일 01:50 |
 | CodeChef | Starters 113 | 2023년 12월 20일 23:30 | 2023년 12월 21일 01:30 |
@@ -30,4 +33,4 @@ Competitive Programming Contests (up-to-date)
 | AtCoder | AtCoder Beginner Contest 336 | 2024년 1월 14일 21:00 | 2024년 1월 14일 22:40 |
 | AtCoder | Masters Championship-qual- | 2024년 3월 3일 13:00 | 2024년 3월 3일 19:00 |
 
-Updated at 2023/12/17, 09:45:40
+Updated at 2023/12/17, 21:15:03
