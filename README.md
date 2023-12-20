@@ -17,7 +17,7 @@ Competitive Programming Contests (up-to-date)
 | BOJ Open | 월간 향유회 2023. 12. · Arena #15 | 2023년 12월 24일 19:00 | 2023년 12월 24일 22:00 |
 | CodeChef | Starters 114 | 2023년 12월 27일 23:30 | 2023년 12월 28일 01:30 |
 | Codeforces | Codeforces Round (Div. 4) | 2023년 12월 28일 23:35 | 2023년 12월 29일 02:05 |
-| BOJ Open | SciOI 2023 Open Contest | 2023년 12월 30일 13:00 | 2023년 12월 30일 18:00 |
+| BOJ Open | SciOI 2023 Open Contest · Arena #16 | 2023년 12월 30일 13:00 | 2023년 12월 30일 18:00 |
 | BOJ Open | 나는코더다 2023 송년대회 Open Contest | 2023년 12월 30일 19:00 | 2023년 12월 31일 00:00 |
 | Codeforces | Good Bye 2023 | 2023년 12월 30일 23:35 | 2023년 12월 31일 01:35 |
 | BOJ Open | Good Bye, BOJ 2023! | 2023년 12월 31일 19:30 | 2023년 12월 31일 22:30 |
@@ -30,4 +30,4 @@ Competitive Programming Contests (up-to-date)
 | AtCoder | AtCoder Beginner Contest 336 | 2024년 1월 14일 21:00 | 2024년 1월 14일 22:40 |
 | AtCoder | Masters Championship-qual- | 2024년 3월 3일 13:00 | 2024년 3월 3일 19:00 |
 
-Updated at 2023/12/20, 09:34:42
+Updated at 2023/12/20, 21:13:46
