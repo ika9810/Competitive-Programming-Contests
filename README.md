@@ -9,12 +9,11 @@ Competitive Programming Contests (up-to-date)
  Contest ID | Title | Start Time | End Time |
 ---|---|---|---|
 | AtCoder | RECRUIT Nihonbashi Half Marathon 2024 Winter（AtCoder Heuristic Contest 029） | 2023년 12월 22일 12:00 | 2023년 12월 26일 21:00 |
+| BOJ Open | 첫 번째 나들이 | 2023년 12월 23일 19:00 | 2023년 12월 23일 23:00 |
+| AtCoder | UNIQUE VISION Programming Contest 2023 Christmas (AtCoder Beginner Contest 334) | 2023년 12월 23일 21:00 | 2023년 12월 23일 22:40 |
 
  Contest ID | Title | Start Time | End Time |
 ---|---|---|---|
-| BOJ Open | 2023 제2회 미적확통컵 | 2023년 12월 23일 13:00 | 2023년 12월 23일 18:00 |
-| BOJ Open | 첫 번째 나들이 | 2023년 12월 23일 19:00 | 2023년 12월 23일 23:00 |
-| AtCoder | UNIQUE VISION Programming Contest 2023 Christmas (AtCoder Beginner Contest 334) | 2023년 12월 23일 21:00 | 2023년 12월 23일 22:40 |
 | Codeforces | Pinely Round 3 (Div. 1 + Div. 2) | 2023년 12월 23일 23:35 | 2023년 12월 24일 02:35 |
 | BOJ Open | 월간 향유회 2023. 12. · Arena #15 | 2023년 12월 24일 19:00 | 2023년 12월 24일 22:00 |
 | Codeforces | Codeforces Round 917 (Div. 2) | 2023년 12월 24일 23:35 | 2023년 12월 25일 01:35 |
@@ -40,4 +39,4 @@ Competitive Programming Contests (up-to-date)
 | CodeChef | Starters 119 | 2024년 1월 31일 23:30 | 2024년 2월 1일 01:30 |
 | AtCoder | Masters Championship-qual- | 2024년 3월 3일 13:00 | 2024년 3월 3일 19:00 |
 
-Updated at 2023/12/23, 09:39:50
+Updated at 2023/12/23, 21:14:28
