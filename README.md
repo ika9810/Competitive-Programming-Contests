@@ -27,7 +27,8 @@ Competitive Programming Contests (up-to-date)
 | CodeChef | Starters 117 | 2024년 1월 17일 23:30 | 2024년 1월 18일 01:30 |
 | CodeChef | Starters 117 Division 2 | 2024년 1월 17일 23:30 | 2024년 1월 18일 01:30 |
 | CodeChef | Starters 118 | 2024년 1월 24일 23:30 | 2024년 1월 25일 01:30 |
+| AtCoder | AtCoder Beginner Contest 338 | 2024년 1월 27일 21:00 | 2024년 1월 27일 22:40 |
 | CodeChef | Starters 119 | 2024년 1월 31일 23:30 | 2024년 2월 1일 01:30 |
 | AtCoder | The 1st Masters Championship-qual- | 2024년 3월 3일 13:00 | 2024년 3월 3일 19:00 |
 
-Updated at 2023/12/28, 09:40:29
+Updated at 2023/12/28, 21:15:39
