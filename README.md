@@ -8,7 +8,6 @@ Competitive Programming Contests (up-to-date)
 
  Contest ID | Title | Start Time | End Time |
 ---|---|---|---|
-| BOJ Open | SciOI 2023 Open Contest · Arena #16 | 2023년 12월 30일 13:00 | 2023년 12월 30일 18:00 |
 | Codeforces | Good Bye 2023 | 2023년 12월 30일 23:35 | 2023년 12월 31일 01:35 |
 | BOJ Open | Good Bye, BOJ 2023! | 2023년 12월 31일 19:30 | 2023년 12월 31일 22:30 |
 | CodeChef | Starters 115 | 2024년 1월 3일 23:30 | 2024년 1월 4일 01:30 |
@@ -32,4 +31,4 @@ Competitive Programming Contests (up-to-date)
 | CodeChef | Starters 119 | 2024년 1월 31일 23:30 | 2024년 2월 1일 01:30 |
 | AtCoder | The 1st Masters Championship-qual- | 2024년 3월 3일 13:00 | 2024년 3월 3일 19:00 |
 
-Updated at 2023/12/30, 09:40:31
+Updated at 2023/12/30, 21:14:32
