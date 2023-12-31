@@ -8,7 +8,6 @@ Competitive Programming Contests (up-to-date)
 
  Contest ID | Title | Start Time | End Time |
 ---|---|---|---|
-| BOJ Open | Good Bye, BOJ 2023! | 2023년 12월 31일 19:30 | 2023년 12월 31일 22:30 |
 | CodeChef | Starters 115 | 2024년 1월 3일 23:30 | 2024년 1월 4일 01:30 |
 | BOJ Open | 나는코더다 2023 송년대회 Open Contest | 2024년 1월 6일 13:00 | 2024년 1월 6일 18:00 |
 | AtCoder | AtCoder Beginner Contest 335 (Sponsored by Mynavi) | 2024년 1월 6일 21:00 | 2024년 1월 6일 22:40 |
@@ -30,4 +29,4 @@ Competitive Programming Contests (up-to-date)
 | CodeChef | Starters 119 | 2024년 1월 31일 23:30 | 2024년 2월 1일 01:30 |
 | AtCoder | The 1st Masters Championship-qual- | 2024년 3월 3일 13:00 | 2024년 3월 3일 19:00 |
 
-Updated at 2023/12/31, 09:45:03
+Updated at 2023/12/31, 21:15:07
