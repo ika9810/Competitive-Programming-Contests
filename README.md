@@ -9,6 +9,9 @@ Competitive Programming Contests (up-to-date)
  Contest ID | Title | Start Time | End Time |
 ---|---|---|---|
 | BOJ Open | 제3회 흐즈로컵 (The 3rd Chromate Cup) Algorithm Division | 2024년 1월 7일 20:00 | 2024년 1월 7일 22:30 |
+
+ Contest ID | Title | Start Time | End Time |
+---|---|---|---|
 | Codeforces | Codeforces Round (Div. 2) | 2024년 1월 10일 21:05 | 2024년 1월 10일 23:05 |
 | CodeChef | Starters 116 | 2024년 1월 10일 23:30 | 2024년 1월 11일 01:30 |
 | Codeforces | 2024 New Year ICPC Challenge powered by Huawei | 2024년 1월 12일 16:00 | 2024년 1월 26일 16:00 |
@@ -25,4 +28,4 @@ Competitive Programming Contests (up-to-date)
 | CodeChef | Starters 119 | 2024년 1월 31일 23:30 | 2024년 2월 1일 01:30 |
 | AtCoder | The 1st Masters Championship-qual- | 2024년 3월 3일 13:00 | 2024년 3월 3일 19:00 |
 
-Updated at 2024/01/07, 09:46:43
+Updated at 2024/01/07, 21:15:15
