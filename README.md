@@ -26,4 +26,4 @@ Competitive Programming Contests (up-to-date)
 | AtCoder | AtCoder Regular Contest 171 | 2024년 2월 4일 21:00 | 2024년 2월 4일 23:00 |
 | AtCoder | The 1st Masters Championship-qual- | 2024년 3월 3일 13:00 | 2024년 3월 3일 19:00 |
 
-Updated at 2024/01/09, 09:42:58
+Updated at 2024/01/09, 21:16:47
