@@ -9,7 +9,10 @@ Competitive Programming Contests (up-to-date)
  Contest ID | Title | Start Time | End Time |
 ---|---|---|---|
 | Codeforces | Codeforces Round (Div. 2) | 2024년 1월 10일 21:05 | 2024년 1월 10일 23:05 |
-| CodeChef | Starters 116 | 2024년 1월 10일 23:30 | 2024년 1월 11일 01:30 |
+
+ Contest ID | Title | Start Time | End Time |
+---|---|---|---|
+| CodeChef | Starters 116  (Rated till 6-Stars) | 2024년 1월 10일 23:30 | 2024년 1월 11일 01:45 |
 | Codeforces | 2024 New Year ICPC Challenge powered by Huawei | 2024년 1월 12일 16:00 | 2024년 1월 26일 16:00 |
 | BOJ Open | 2023 경인지역 6개 대학 연합 프로그래밍 경시대회 shake! Open Contest · Arena #17 | 2024년 1월 13일 14:00 | 2024년 1월 13일 18:00 |
 | AtCoder | ALGO ARTIS Programming Contest 2023 Winter（AtCoder Heuristic Contest 028） | 2024년 1월 13일 15:00 | 2024년 1월 13일 19:00 |
@@ -24,6 +27,8 @@ Competitive Programming Contests (up-to-date)
 | AtCoder | AtCoder Beginner Contest 338 | 2024년 1월 27일 21:00 | 2024년 1월 27일 22:40 |
 | CodeChef | Starters 119 | 2024년 1월 31일 23:30 | 2024년 2월 1일 01:30 |
 | AtCoder | AtCoder Regular Contest 171 | 2024년 2월 4일 21:00 | 2024년 2월 4일 23:00 |
+| AtCoder | THIRD PROGRAMMING CONTEST 2023（AtCoder Heuristic Contest 030） | 2024년 2월 9일 19:00 | 2024년 2월 19일 19:00 |
+| AtCoder | KAJIMA CORPORATION CONTEST 2024（AtCoder Beginner Contest 340） | 2024년 2월 10일 21:00 | 2024년 2월 10일 22:40 |
 | AtCoder | The 1st Masters Championship-qual- | 2024년 3월 3일 13:00 | 2024년 3월 3일 19:00 |
 
-Updated at 2024/01/10, 09:42:58
+Updated at 2024/01/10, 21:17:04
