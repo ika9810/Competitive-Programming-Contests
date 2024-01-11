@@ -29,4 +29,4 @@ Competitive Programming Contests (up-to-date)
 | AtCoder | KAJIMA CORPORATION CONTEST 2024（AtCoder Beginner Contest 340） | 2024년 2월 10일 21:00 | 2024년 2월 10일 22:40 |
 | AtCoder | The 1st Masters Championship-qual- | 2024년 3월 3일 13:00 | 2024년 3월 3일 19:00 |
 
-Updated at 2024/01/11, 09:43:00
+Updated at 2024/01/11, 21:16:47
