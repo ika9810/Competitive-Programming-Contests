@@ -9,6 +9,9 @@ Competitive Programming Contests (up-to-date)
  Contest ID | Title | Start Time | End Time |
 ---|---|---|---|
 | Codeforces | 2024 New Year ICPC Challenge powered by Huawei | 2024년 1월 12일 16:00 | 2024년 1월 26일 16:00 |
+
+ Contest ID | Title | Start Time | End Time |
+---|---|---|---|
 | BOJ Open | 2023 경인지역 6개 대학 연합 프로그래밍 경시대회 shake! Open Contest · Arena #17 | 2024년 1월 13일 14:00 | 2024년 1월 13일 18:00 |
 | AtCoder | ALGO ARTIS Programming Contest 2023 Winter（AtCoder Heuristic Contest 028） | 2024년 1월 13일 15:00 | 2024년 1월 13일 19:00 |
 | Codeforces | Codeforces Round 919 (Div. 2) | 2024년 1월 13일 23:35 | 2024년 1월 14일 01:35 |
@@ -18,15 +21,22 @@ Competitive Programming Contests (up-to-date)
 | CodeChef | Starters 117 | 2024년 1월 17일 23:30 | 2024년 1월 18일 01:30 |
 | CodeChef | Starters 117 Division 2 | 2024년 1월 17일 23:30 | 2024년 1월 18일 01:30 |
 | Codeforces | Educational Codeforces Round 161 (Rated for Div. 2) | 2024년 1월 18일 23:35 | 2024년 1월 19일 01:35 |
+| AtCoder | Toyota Programming Contest 2024#1（AtCoder Beginner Contest 337） | 2024년 1월 20일 21:00 | 2024년 1월 20일 22:40 |
 | BOJ Open | 제3회 보라매컵 예선 Open Contest | 2024년 1월 21일 18:00 | 2024년 1월 21일 21:00 |
 | AtCoder | AtCoder Regular Contest 170 | 2024년 1월 21일 21:00 | 2024년 1월 21일 23:00 |
 | CodeChef | Starters 118 | 2024년 1월 24일 23:30 | 2024년 1월 25일 01:30 |
 | AtCoder | AtCoder Beginner Contest 338 | 2024년 1월 27일 21:00 | 2024년 1월 27일 22:40 |
 | Codeforces | Educational Codeforces Round 162 (Rated for Div. 2) | 2024년 1월 28일 23:35 | 2024년 1월 29일 01:35 |
 | CodeChef | Starters 119 | 2024년 1월 31일 23:30 | 2024년 2월 1일 01:30 |
+| AtCoder | Japan Registry Services (JPRS) Programming Contest 2024 (AtCoder Beginner Contest 339) | 2024년 2월 3일 21:00 | 2024년 2월 3일 22:40 |
 | AtCoder | AtCoder Regular Contest 171 | 2024년 2월 4일 21:00 | 2024년 2월 4일 23:00 |
+| CodeChef | Starters 120 | 2024년 2월 7일 23:30 | 2024년 2월 8일 01:30 |
 | AtCoder | THIRD PROGRAMMING CONTEST 2023（AtCoder Heuristic Contest 030） | 2024년 2월 9일 19:00 | 2024년 2월 19일 19:00 |
 | AtCoder | KAJIMA CORPORATION CONTEST 2024（AtCoder Beginner Contest 340） | 2024년 2월 10일 21:00 | 2024년 2월 10일 22:40 |
+| CodeChef | Starters 121 | 2024년 2월 14일 23:30 | 2024년 2월 15일 01:30 |
+| AtCoder | Toyota Programming Contest 2024#2（AtCoder Beginner Contest 341） | 2024년 2월 17일 21:00 | 2024년 2월 17일 22:40 |
+| CodeChef | Starters 122 | 2024년 2월 21일 23:30 | 2024년 2월 22일 01:30 |
+| CodeChef | Starters 123 | 2024년 2월 28일 23:30 | 2024년 2월 29일 01:30 |
 | AtCoder | The 1st Masters Championship-qual- | 2024년 3월 3일 13:00 | 2024년 3월 3일 19:00 |
 
-Updated at 2024/01/12, 09:43:10
+Updated at 2024/01/12, 21:16:41
