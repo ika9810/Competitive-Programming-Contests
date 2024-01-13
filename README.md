@@ -12,8 +12,6 @@ Competitive Programming Contests (up-to-date)
 
  Contest ID | Title | Start Time | End Time |
 ---|---|---|---|
-| BOJ Open | 2023 경인지역 6개 대학 연합 프로그래밍 경시대회 shake! Open Contest · Arena #17 | 2024년 1월 13일 14:00 | 2024년 1월 13일 18:00 |
-| AtCoder | ALGO ARTIS Programming Contest 2023 Winter（AtCoder Heuristic Contest 028） | 2024년 1월 13일 15:00 | 2024년 1월 13일 19:00 |
 | Codeforces | Codeforces Round 919 (Div. 2) | 2024년 1월 13일 23:35 | 2024년 1월 14일 01:35 |
 | BOJ Open | Hello, BOJ 2024! Open Contest | 2024년 1월 14일 13:30 | 2024년 1월 14일 16:30 |
 | AtCoder | AtCoder Beginner Contest 336 | 2024년 1월 14일 21:00 | 2024년 1월 14일 22:40 |
@@ -39,4 +37,4 @@ Competitive Programming Contests (up-to-date)
 | CodeChef | Starters 123 | 2024년 2월 28일 23:30 | 2024년 2월 29일 01:30 |
 | AtCoder | The 1st Masters Championship-qual- | 2024년 3월 3일 13:00 | 2024년 3월 3일 19:00 |
 
-Updated at 2024/01/13, 09:42:29
+Updated at 2024/01/13, 21:15:14
