@@ -9,11 +9,10 @@ Competitive Programming Contests (up-to-date)
  Contest ID | Title | Start Time | End Time |
 ---|---|---|---|
 | Codeforces | 2024 New Year ICPC Challenge powered by Huawei | 2024년 1월 12일 16:00 | 2024년 1월 26일 16:00 |
+| AtCoder | AtCoder Beginner Contest 336 | 2024년 1월 14일 21:00 | 2024년 1월 14일 22:40 |
 
  Contest ID | Title | Start Time | End Time |
 ---|---|---|---|
-| BOJ Open | Hello, BOJ 2024! Open Contest | 2024년 1월 14일 13:30 | 2024년 1월 14일 16:30 |
-| AtCoder | AtCoder Beginner Contest 336 | 2024년 1월 14일 21:00 | 2024년 1월 14일 22:40 |
 | Codeforces | Codeforces Round 920 (Div. 3) | 2024년 1월 15일 23:35 | 2024년 1월 16일 01:50 |
 | CodeChef | Starters 117 | 2024년 1월 17일 23:30 | 2024년 1월 18일 01:30 |
 | CodeChef | Starters 117 Division 2 | 2024년 1월 17일 23:30 | 2024년 1월 18일 01:30 |
@@ -38,4 +37,4 @@ Competitive Programming Contests (up-to-date)
 | CodeChef | Starters 123 | 2024년 2월 28일 23:30 | 2024년 2월 29일 01:30 |
 | AtCoder | The 1st Masters Championship-qual- | 2024년 3월 3일 13:00 | 2024년 3월 3일 19:00 |
 
-Updated at 2024/01/14, 09:46:59
+Updated at 2024/01/14, 21:15:26
