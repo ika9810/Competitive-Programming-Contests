@@ -33,5 +33,6 @@ Competitive Programming Contests (up-to-date)
 | CodeChef | Starters 122 | 2024년 2월 21일 23:30 | 2024년 2월 22일 01:30 |
 | CodeChef | Starters 123 | 2024년 2월 28일 23:30 | 2024년 2월 29일 01:30 |
 | AtCoder | The 1st Masters Championship-qual- | 2024년 3월 3일 13:00 | 2024년 3월 3일 19:00 |
+| AtCoder | MC Digital Programming Contest 2024（AtCoder Heuristic Contest 031） | 2024년 3월 22일 19:00 | 2024년 4월 1일 19:00 |
 
-Updated at 2024/01/22, 09:45:14
+Updated at 2024/01/22, 21:17:59
