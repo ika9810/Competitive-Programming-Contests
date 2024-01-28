@@ -8,7 +8,6 @@ Competitive Programming Contests (up-to-date)
 
  Contest ID | Title | Start Time | End Time |
 ---|---|---|---|
-| BOJ Open | 월간 향유회 2024. 01. | 2024년 1월 28일 19:00 | 2024년 1월 28일 21:00 |
 | Codeforces | Educational Codeforces Round 162 (Rated for Div. 2) | 2024년 1월 28일 23:35 | 2024년 1월 29일 01:35 |
 | Codeforces | Codeforces Round 922 (Div. 2) | 2024년 1월 30일 23:35 | 2024년 1월 31일 01:35 |
 | CodeChef | Starters 119 | 2024년 1월 31일 23:30 | 2024년 2월 1일 01:30 |
@@ -28,4 +27,4 @@ Competitive Programming Contests (up-to-date)
 | AtCoder | The 1st Masters Championship-qual- | 2024년 3월 3일 13:00 | 2024년 3월 3일 19:00 |
 | AtCoder | MC Digital Programming Contest 2024（AtCoder Heuristic Contest 031） | 2024년 3월 22일 19:00 | 2024년 4월 1일 19:00 |
 
-Updated at 2024/01/28, 09:42:48
+Updated at 2024/01/28, 21:13:37
