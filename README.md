@@ -27,4 +27,4 @@ Competitive Programming Contests (up-to-date)
 | AtCoder | The 1st Masters Championship-qual- | 2024년 3월 3일 13:00 | 2024년 3월 3일 19:00 |
 | AtCoder | MC Digital Programming Contest 2024（AtCoder Heuristic Contest 031） | 2024년 3월 22일 19:00 | 2024년 4월 1일 19:00 |
 
-Updated at 2024/01/29, 09:40:08
+Updated at 2024/01/29, 21:15:36
