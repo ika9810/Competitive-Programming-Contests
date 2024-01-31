@@ -32,4 +32,4 @@ Competitive Programming Contests (up-to-date)
 | BOJ Open | 제4회 고려대학교 MatKor Cup : 2024 Winter/Spring Open | 2024년 3월 9일 13:00 | 2024년 3월 9일 18:00 |
 | AtCoder | MC Digital Programming Contest 2024（AtCoder Heuristic Contest 031） | 2024년 3월 22일 19:00 | 2024년 4월 1일 19:00 |
 
-Updated at 2024/01/31, 09:40:37
+Updated at 2024/01/31, 21:15:10
