@@ -8,16 +8,17 @@ Competitive Programming Contests (up-to-date)
 
  Contest ID | Title | Start Time | End Time |
 ---|---|---|---|
-| BOJ Open | solved.ac Grand Arena #4 (mirror of GA Party) — Division 1 · Arena #19 | 2024년 2월 3일 13:00 | 2024년 2월 3일 16:00 |
-| BOJ Open | solved.ac Grand Arena #4 (mirror of GA Party) — Division 2 · Arena #19 | 2024년 2월 3일 13:00 | 2024년 2월 3일 16:00 |
 | AtCoder | Japan Registry Services (JPRS) Programming Contest 2024 (AtCoder Beginner Contest 339) | 2024년 2월 3일 21:00 | 2024년 2월 3일 22:40 |
+
+ Contest ID | Title | Start Time | End Time |
+---|---|---|---|
 | AtCoder | AtCoder Regular Contest 171 | 2024년 2월 4일 21:00 | 2024년 2월 4일 23:00 |
 | Codeforces | Codeforces Round 923 (Div. 3) | 2024년 2월 6일 23:35 | 2024년 2월 7일 01:50 |
 | CodeChef | Starters 120 | 2024년 2월 7일 23:30 | 2024년 2월 8일 01:30 |
 | AtCoder | THIRD PROGRAMMING CONTEST 2023（AtCoder Heuristic Contest 030） | 2024년 2월 9일 19:00 | 2024년 2월 19일 19:00 |
 | AtCoder | KAJIMA CORPORATION CONTEST 2024（AtCoder Beginner Contest 340） | 2024년 2월 10일 21:00 | 2024년 2월 10일 22:40 |
 | CodeChef | Starters 121 | 2024년 2월 14일 23:30 | 2024년 2월 15일 01:30 |
-| BOJ Open | 제3회 보라매컵 본선 Open Contest | 2024년 2월 17일 18:00 | 2024년 2월 17일 21:00 |
+| BOJ Open | 제3회 보라매컵 본선 Open Contest · Arena #20 | 2024년 2월 17일 18:00 | 2024년 2월 17일 21:00 |
 | AtCoder | Toyota Programming Contest 2024#2（AtCoder Beginner Contest 341） | 2024년 2월 17일 21:00 | 2024년 2월 17일 22:40 |
 | BOJ Open | 2024 신촌지역 대학생 프로그래밍 대회 동아리 연합 겨울 대회 (SUAPC 2024 Winter) Open · Arena #N | 2024년 2월 18일 12:00 | 2024년 2월 18일 17:00 |
 | AtCoder | AtCoder Regular Contest 172 | 2024년 2월 18일 21:00 | 2024년 2월 18일 23:00 |
@@ -32,4 +33,4 @@ Competitive Programming Contests (up-to-date)
 | BOJ Open | 제4회 고려대학교 MatKor Cup : 2024 Winter/Spring Open | 2024년 3월 9일 13:00 | 2024년 3월 9일 18:00 |
 | AtCoder | MC Digital Programming Contest 2024（AtCoder Heuristic Contest 031） | 2024년 3월 22일 19:00 | 2024년 4월 1일 19:00 |
 
-Updated at 2024/02/03, 09:39:36
+Updated at 2024/02/03, 21:14:35
