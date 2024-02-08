@@ -21,6 +21,7 @@ Competitive Programming Contests (up-to-date)
 | Codeforces | Codeforces Round (Div. 4) | 2024년 2월 19일 23:35 | 2024년 2월 20일 01:50 |
 | CodeChef | Starters 122 | 2024년 2월 21일 23:30 | 2024년 2월 22일 01:30 |
 | BOJ Open | 2024 KSA Automata Winter Contest · Arena # | 2024년 2월 24일 19:00 | 2024년 2월 25일 00:00 |
+| AtCoder | HUAWEI Programming Contest 2024（AtCoder Beginner Contest 342） | 2024년 2월 24일 21:00 | 2024년 2월 24일 22:40 |
 | CodeChef | Starters 123 | 2024년 2월 28일 23:30 | 2024년 2월 29일 01:30 |
 | BOJ Open | 제3회 초콜릿컵 (Bitter Division) · Arena # | 2024년 3월 1일 13:00 | 2024년 3월 1일 17:00 |
 | BOJ Open | 제3회 초콜릿컵 (Sweet Division) · Arena # | 2024년 3월 1일 13:00 | 2024년 3월 1일 17:00 |
@@ -29,4 +30,4 @@ Competitive Programming Contests (up-to-date)
 | BOJ Open | 제4회 고려대학교 MatKor Cup : 2024 Winter/Spring Open Contest | 2024년 3월 9일 13:00 | 2024년 3월 9일 18:00 |
 | AtCoder | MC Digital Programming Contest 2024（AtCoder Heuristic Contest 031） | 2024년 3월 22일 19:00 | 2024년 4월 1일 19:00 |
 
-Updated at 2024/02/08, 09:39:24
+Updated at 2024/02/08, 21:15:21
